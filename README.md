@@ -1,4 +1,4 @@
-# CRAN_R_Sports_Packages
+# CRAN R Sports Packages
 
 List and description of R Sports Packages in CRAN repository. See Data folder. Information available are:
 
