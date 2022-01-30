@@ -36,7 +36,7 @@ https://CRAN.R-project.org/package=GGIR>.","Sports technology","The Netherlands"
 2021-02-08,"ffscrapr","API Client for Fantasy Football League Platforms","Yes","Yes","Yes","Yes (depends on other packages)","American Football","Male","Professional","No","Scraping","Yes",2020-08-17,"1.0.0",2021-02-08,"1.2.2","No","No","Tan Ho (2021). ffscrapr: API Client for Fantasy Football League Platforms. R
 
   package version 1.2.2. https://CRAN.R-project.org/package=ffscrapr","Sports performance analysis","Canada","Male",2020,2021
-2021-02-03,"combinedevents","Calculate Scores and Marks for Track and Field Combined Events","Doubt","No","Yes","Yes","Athletics","Both","Professional","Yes","scraping/processing","No",2020-09-23,"0.1.0",2021-02-03,"0.1.1","No","No","Katie Frank (2021). combinedevents: Calculate Scores and Marks for Track and
+2021-02-03,"combinedevents","Calculate Scores and Marks for Track and Field Combined Events","Doubt","No","Yes","Yes","Athletics","Both","Professional","Yes","Scraping/preprocessing","No",2020-09-23,"0.1.0",2021-02-03,"0.1.1","No","No","Katie Frank (2021). combinedevents: Calculate Scores and Marks for Track and
 
   Field Combined Events. R package version 0.1.1.
 
@@ -155,7 +155,7 @@ https://CRAN.R-project.org/package=GGIR>.","Sports technology","The Netherlands"
 2020-05-25,"nhlapi","A Minimum-Dependency 'R' Interface to the 'NHL' API","Yes","No","Yes","No","Hockey","Male","Professional","Yes","Processing","Yes",2020-05-25,"0.1.2",2021-02-20,"0.1.4","No","No","Jozef Hajnala (2021). nhlapi: A Minimum-Dependency 'R' Interface to the 'NHL' API.
 
   R package version 0.1.4. https://CRAN.R-project.org/package=nhlapi","Sports performance analysis","The Netherlands","Male",2020,2021
-2020-05-17,"PAutilities","Streamline Physical Activity Research","Doubt","Doubt","Yes","Yes","Physical activity","Both","NS","Yes","Scraping/processing","Yes",2019-03-06,"0.1.2",2020-05-17,"1.0.1","No","No","Paul R. Hibbing (2019). PAutilities: Streamline physical activity research. URL
+2020-05-17,"PAutilities","Streamline Physical Activity Research","Doubt","Doubt","Yes","Yes","Physical activity","Both","NS","Yes","Scraping/preprocessing","Yes",2019-03-06,"0.1.2",2020-05-17,"1.0.1","No","No","Paul R. Hibbing (2019). PAutilities: Streamline physical activity research. URL
 
   https://cran.r-project.org/package=PAutilities.","Movement integration","United States of America","Male",2019,2020
 2020-05-15,"scuba","Diving Calculations and Decompression Models","Doubt","No","Yes","Yes","Scuba diving","Both","Amateur","Yes","Descriptive","Yes",2006-01-05,"1.1-2",2020-05-15,"1.10-0","No","No","Adrian Baddeley (2020). scuba: Diving Calculations and Decompression Models. R
@@ -254,7 +254,7 @@ from GPS-Enabled Tracking Devices in R. _Journal of Statistical Software_, *82
 2017-12-18,"SpatialBall","Spatial NBA Visualization and Analysis","Yes","Yes","Yes","Yes","Basketball","Male","Professional","Yes","Compute/visualization","Yes",2017-12-18,"0.1.0",2017-12-18,"0.1.0","No","No","Derek Corcoran (2017). SpatialBall: Spatial NBA Visualization and Analysis. R
 
   package version 0.1.0. https://CRAN.R-project.org/package=SpatialBall","Sports performance analysis","Chile","Male",2017,2017
-2017-09-11,"opendotaR","Interface for OpenDota API","No","No","Yes","No","Dota2","Male","Professional","No","Scraping/processing","No",2017-09-11,"0.1.4",2017-09-11,"0.1.4","No","No","Kari Gunnarsson (2017). opendotaR: Interface for OpenDota API. R package version
+2017-09-11,"opendotaR","Interface for OpenDota API","No","No","Yes","No","Dota2","Male","Professional","No","Scraping/preprocessing","No",2017-09-11,"0.1.4",2017-09-11,"0.1.4","No","No","Kari Gunnarsson (2017). opendotaR: Interface for OpenDota API. R package version
 
   0.1.4. https://CRAN.R-project.org/package=opendotaR","eSports","Hong Kong","Male",2017,2017
 2017-06-15,"baseballDBR","Sabermetrics and Advanced Baseball Statistics","Yes","Yes","Yes","Yes","Baseball","Male","Professional","Yes","Compute","Yes",2017-06-15,"0.1.2",2017-06-15,"0.1.2","No","No","Kris Eberwein (2017). baseballDBR: Sabermetrics and Advanced Baseball Statistics.
@@ -303,7 +303,7 @@ from GPS-Enabled Tracking Devices in R. _Journal of Statistical Software_, *82
 2013-10-23,"fbRanks","Association Football (Soccer) Ranking via Poisson Regression","Yes","Yes","Yes","Yes","Football","Male","Amateur","Yes","Prediction/simulation","Yes",2013-03-29,"1.0",2013-10-23,"2.0","No","No","Eli Holmes (2013). fbRanks: Association Football (Soccer) Ranking via Poisson
 
   Regression. R package version 2.0. https://CRAN.R-project.org/package=fbRanks","Sports performance analysis","United States of America","Female",2013,2013
-2013-04-07,"SportsAnalytics","Infrastructure for Sports Analytics","Yes","Yes","Yes","Yes","Football/Basketball","Male","Professional","No","Scraping/processing","No",2011-10-12,"0.1",2013-04-07,"0.2","No","No","Manuel J. A. Eugster. SportsAnalytics: Infrastructure for Sports Analytics. R
+2013-04-07,"SportsAnalytics","Infrastructure for Sports Analytics","Yes","Yes","Yes","Yes","Football/Basketball","Male","Professional","No","Scraping/preprocessing","No",2011-10-12,"0.1",2013-04-07,"0.2","No","No","Manuel J. A. Eugster. SportsAnalytics: Infrastructure for Sports Analytics. R
 
   package version 0.1 http://soccer.r-forge.r-project.org/","Sports performance analysis","Austria","Male",2011,2013
 2013-02-28,"heatex","Heat exchange calculations during physical activity","Doubt","No","Yes","Yes","Walking/Running/Cycling","Both","NS","No","Compute","No",2013-02-28,"1.0",2013-02-28,"1.0","No","No","Kerry Atkins (2013). heatex: Heat exchange calculations during physical activity..
