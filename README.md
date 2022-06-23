@@ -16,7 +16,7 @@ List and description of R Sports Packages in CRAN repository. See *Data* folder.
 | Creator's   Country       | Country of the   creator or the first contributor of the package                                                                  |
 | Creator's   Gender        | Male/Female                                                                                                                       |
 | Sport                     | The sport which   the package is focused on                                                                                       |
-| Gender                    | Gender which is   the package is focused on (Male, female o Both)                                                                 |
+| Gender                    | Gender which is   the package is focused on (Male, Female o Both)                                                                 |
 | Category                  | Professional   category (Professional, Amateur o Both)                                                                            |
 | JQAS                      | (No/Yes) If the   package is mentioned in the Journal of Quantitative   Analysis in Sport                                         |
 | Category   classification | Five categories:   1) Sports Performance Analysis;   2) Sports technology; 3) Movement integration; 4) Athlete health; 5) eSports |
