@@ -114,7 +114,7 @@ all <- sports | football | basketball | soccer | tennis | volleyball | handball 
        nascar | champions | uefa | olympics | game | player | accelerometer | ball | team | cup | score | 
        tournament | kayak | canoe | racket | fifa | fiba | espn | athlon | ncaa
 
-## Final list (too much packages...)
+## Final list (too much packages... >600 packgs)
 pkgs_list    <- unique(all$Package)   # Unique packages
 N_packages <- length(pkgs_list)       # Number of unique packages
 
