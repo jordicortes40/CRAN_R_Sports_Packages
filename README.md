@@ -1,5 +1,7 @@
 # CRAN R Sports Packages
 
+## Data
+
 List and description of R Sports Packages in CRAN repository. See *Data* folder. Information available are:
 
 |     Variable              | Description                                                                                                                       |
@@ -23,3 +25,10 @@ List and description of R Sports Packages in CRAN repository. See *Data* folder.
 | Data                      | (Yes/No) If the   package contains any dataset                                                                                    |
 | Data   analysis           | (Yes/No) If the   purpose of the package is the data analysis                                                                     |
 | Methodology   type        | The main type of   statistical techniques used                                                                                    |
+
+## Scripts 
+
+The script *automatic_search* performs an automatic search of the sports related packages using the
+`findFn` function from package [sos](https://cran.r-project.org/web/packages/sos/index.html). However, 
+the result of this search was not enough specific and the final list of packages related to sports
+was manually obtained by reviewing one by one.
