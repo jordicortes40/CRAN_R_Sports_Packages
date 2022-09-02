@@ -1,314 +1,83 @@
-"Date","Package","Title","Packages-VM","Packages-MC","Packages-R","Data","Sport","Gender","Category","Statistical_methodology","Metodhology_type","Tutorial","Creation_date","version_first","Date_last","Version_last","R_journal","JQAS","Citation","Category","Creator's Country","Creator's gender","year_creation","year_updated"
-2021-02-17,"GGIR","Raw Accelerometer Data Analysis","Yes","Yes","Yes","Yes","Physical activity","Both","NS","Yes","Descriptive","Yes",2013-08-08,"0.6-17",2021-02-17,"2.3-0","No","No","van Hees V, Fang Z, Zhao J, Heywood J, Mirkes E, Sabia S, Migueles J (2020). _GGIR:
-
-Raw Accelerometer Data Analysis_. doi: 10.5281/zenodo.1051064 (URL:
-
-https://doi.org/10.5281/zenodo.1051064), R package version 2.2-0, <URL:
-
-van Hees V, Fang Z, Zhao J, Heywood J, Mirkes E, Sabia S, Migueles J (2020). _GGIR:
-
-Raw Accelerometer Data Analysis_. doi: 10.5281/zenodo.1051064 (URL:
-
-https://doi.org/10.5281/zenodo.1051064), R package version 2.2-0, <URL:
-
-https://CRAN.R-project.org/package=GGIR>.","Sports technology","The Netherlands","Male",2013,2021
-2021-02-16,"AdvancedBasketballStats","Advanced Basketball Statistics","Yes","Yes","Yes","No","Basketball","Both","Professional","Yes","Probabilities/prediction","Yes",2021-02-16,"1.0.0",2021-02-16,"1.0.0","No","No","Francisco Javier Cantero, Juan Jose Cuadrado and Universidad de Alcala de Henares
-
-  (2021). AdvancedBasketballStats: Advanced Basketball Statistics. R package
-
-  version 1.0.0. https://CRAN.R-project.org/package=AdvancedBasketballStats","Sports performance analysis","Spain","Male",2021,2021
-2021-02-15,"nflfastR","Functions to Efficiently Access NFL Play by Play Data","Yes","Yes","Yes","Yes","American Football","Male","Professional","Yes","Scraping/probabilities","No",2020-09-01,"2.2.1",2021-02-15,"4.0.0","No","No","Sebastian Carl and Ben Baldwin (2021). nflfastR: Functions to Efficiently Access
-
-  NFL Play by Play Data. R package version 4.0.0.
-
-  https://CRAN.R-project.org/package=nflfastR","Sports performance analysis","United States of America","Female",2020,2021
-2021-02-15,"runexp","Softball Run Expectancy using Markov Chains and Simulation","Yes","Yes","Yes","Yes","Softball","Both","NS","Yes","Simulation","No",2021-02-15,"0.1.0",2021-02-15,"0.1.0","No","No","Annie Sauer and Sierra Merkes (2021). runexp: Softball Run Expectancy using
-
-  Markov Chains and Simulation. R package version 0.1.0.
-
-  https://CRAN.R-project.org/package=runexp","Sports performance analysis","Germany","Male",2021,2021
-2021-02-12,"BAwiR","Analysis of Basketball Data","Yes","Yes","Yes","No","Basketball","Male","Professional","No","Scraping/visualization","Yes",2018-01-25,"1.0",2021-02-12,"1.2.5","No","No","Guillermo Vinue (2021). BAwiR: Analysis of Basketball Data. R package version
-
-  1.2.5. https://CRAN.R-project.org/package=BAwiR","Sports performance analysis","Spain","Male",2018,2021
-2021-02-10,"squashinformr","Politely Web Scrape Data from SquashInfo","Yes","Yes","Yes","No","Squash","Both","Professional","No","Scraping","No",2020-05-01,"0.1.2",2021-02-10,"0.2.1","No","No","Hayden MacDonald (2021). squashinformr: Politely Web Scrape Data from SquashInfo.
-
-  R package version 0.2.1. https://CRAN.R-project.org/package=squashinformr","Sports performance analysis","United Kingdom","Male",2020,2021
-2021-02-08,"ffscrapr","API Client for Fantasy Football League Platforms","Yes","Yes","Yes","Yes (depends on other packages)","American Football","Male","Professional","No","Scraping","Yes",2020-08-17,"1.0.0",2021-02-08,"1.2.2","No","No","Tan Ho (2021). ffscrapr: API Client for Fantasy Football League Platforms. R
-
-  package version 1.2.2. https://CRAN.R-project.org/package=ffscrapr","Sports performance analysis","Canada","Male",2020,2021
-2021-02-03,"combinedevents","Calculate Scores and Marks for Track and Field Combined Events","Doubt","No","Yes","Yes","Athletics","Both","Professional","Yes","Scraping/preprocessing","No",2020-09-23,"0.1.0",2021-02-03,"0.1.1","No","No","Katie Frank (2021). combinedevents: Calculate Scores and Marks for Track and
-
-  Field Combined Events. R package version 0.1.1.
-
-  https://CRAN.R-project.org/package=combinedevents","Sports performance analysis","India","Male",2020,2021
-2021-02-03,"yorkr","Analyze Cricket Performances Based on Data from Cricsheet","Yes","Yes","Yes","No","Cricket","Male","Professional","No","Scraping/preprocessing","No",2016-04-01,"0.0.2",2021-02-03,"0.0.19","No","No","Tinniam V Ganesh (2021). yorkr: Analyze Cricket Performances Based on Data from
-
-  Cricsheet. R package version 0.0.19. https://CRAN.R-project.org/package=yorkr","Sports performance analysis","United States of America","Female",2016,2021
-2021-01-28,"icdpicr","'ICD' Programs for Injury Categorization in R","No","Doubt","Yes","Yes","Injury sports medicine","Both","NS","No","Scraping/categorization","Yes",2021-01-28,"1.0.0",2021-01-28,"1.0.0","No","No","Adam Black and David Clark (2021). icdpicr: 'ICD' Programs for Injury
-
-  Categorization in R. R package version 1.0.0.
-
-  https://CRAN.R-project.org/package=icdpicr","Athlete health","United States of America","Male",2021,2021
-2021-01-22,"PhysicalActivity","Process Accelerometer Data for Physical Activity Measurement","Yes","Yes","Yes","Yes","Physical activity","Both","NS","Yes","Descriptive","No",2010-09-15,"0.1-0",2021-01-22,"0.2-4","No","No","Leena Choi, Cole Beck, Zhouwen Liu, Ryan Moore, Charles E. Matthews and Maciej S.
-
-  Buchowski (2021). PhysicalActivity: Process Accelerometer Data for Physical
-
-  Activity Measurement. R package version 0.2-4.
-
-  https://CRAN.R-project.org/package=PhysicalActivity","Sports technology","United States of America","Female",2010,2021
-2021-01-21,"Lahman","Sean 'Lahman' Baseball Database","Yes","Yes","Yes","Yes","Baseball","Male","Professional","No","Scraping/classification","Yes",2011-09-30,"1.0-7",2021-01-21,"8.0-1","No","No","Michael Friendly, Chris Dalzell, Martin Monkman and Dennis Murphy (2021). Lahman:
-
-  Sean 'Lahman' Baseball Database. R package version 8.0-1.
-
-  https://CRAN.R-project.org/package=Lahman","Sports performance analysis","Canada","Male",2011,2021
-2021-01-13,"SwimmeR","Data Import, Cleaning, and Conversions for Swimming Results","Yes","Yes","Yes","Yes","Swimming/Scuba diving","Both","Professional","No","Scraping/classification","Yes",2019-10-10,"0.1.0.0",2021-01-13,"0.7.2","No","No","Pilgrim, Gregory A. (2019). SwimmeR: Package for working with swimming data.
-
-  version 0.5.4. https://github.com/gpilgrim2670/SwimmeR","Sports performance analysis","Korea","Female",2019,2021
-2021-01-13,"tashu","Analysis and Prediction of Bicycle Rental Amount","No","Doubt","Yes","Yes (depends on other packages)","Cycling","Both","Amateur","Yes","Prediction/preprocessing","Yes",2019-09-04,"0.1.0",2021-01-13,"0.1.1","No","No","Jiwon Min (2021). tashu: Analysis and Prediction of Bicycle Rental Amount. R
-
-  package version 0.1.1. https://CRAN.R-project.org/package=tashu","Movement integration","United States of America","Male",2019,2021
-2021-01-12,"fitzRoy","Easily Scrape and Process AFL Data","No","No","Yes","No","Australian Football","Male","Professional","Yes","Scraping/preprocessing","Yes",2019-11-30,"0.2.0",2021-01-12,"0.3.3","Yes","No","James Day, Robert Nguyen and Oscar Lane (2021). fitzRoy: Easily Scrape and
-
-  Process AFL Data. R package version 0.3.3.
-
-  https://CRAN.R-project.org/package=fitzRoy","Sports performance analysis","Australia","Male",2019,2021
-2021-01-10,"arctools","Processing and Physical Activity Summaries of Minute Level Activity Data","Yes","No","Yes","Yes","Physical activity","Both","NS","Yes","Extraction/processing","Yes",2020-11-27,"1.0.0",2021-01-10,"1.1.0","No","No","Marta Karas, Jacek Urbanek and Jennifer Schrack (2021). arctools: Processing and
-
-  Physical Activity Summaries of Minute Level Activity Data. R package version
-
-  1.1.0. https://CRAN.R-project.org/package=arctools","Movement integration","United States of America","Female",2020,2021
-2021-01-08,"fflr","Collect ESPN Fantasy Football Data","Yes","Yes","Yes","Yes","American Football","Male","Professional","No","Scraping","Yes",2020-10-27,"0.3.8",2021-01-08,"0.3.15","No","No","Kiernan Nicholls (2021). fflr: Collect ESPN Fantasy Football Data. R package
-
-  version 0.3.15. https://CRAN.R-project.org/package=fflr","Sports performance analysis","United States of America","Male",2020,2021
-2021-01-07,"nbapalettes","An NBA Jersey Palette Generator","Doubt","Yes","Yes","Yes","Basketball","Male","Professional","No","Scraping","No",2021-01-07,"0.1.0",2021-01-07,"0.1.0","No","No","Murray Josh (2021). nbapalettes: An NBA Jersey Palette Generator. R package
-
-  version 0.1.0. https://CRAN.R-project.org/package=nbapalettes","Sports technology","Canada","Male",2021,2021
-2021-01-06,"NFLSimulatoR","Simulating Plays and Drives in the NFL","Yes","Yes","Yes","No","American Football","Male","Professional","Yes","Simulation","Yes",2020-11-23,"0.1.0",2021-01-06,"0.3.0","No","No","Ryan Elmore, Ben Williams and Will Palmquist (2021). NFLSimulatoR: Simulating
-
-  Plays and Drives in the NFL. R package version 0.3.0.
-
-  https://CRAN.R-project.org/package=NFLSimulatoR","Sports performance analysis","United States of America","Male",2020,2021
-2021-01-04,"aRbs","Find Arbitrage Opportunities for Sports Matches","Doubt","Yes","Yes","No","Arbitrage","Both","Professional","No","Scraping","No",2020-11-24,"0.0.1",2021-01-04,"0.1.0","No","No","Andrew Little (2021). aRbs: Find Arbitrage Opportunities for Sports Matches. R
-
-  package version 0.1.0. https://CRAN.R-project.org/package=aRbs","Sports performance analysis","United States of America","Male",2020,2021
-2021-01-04,"uncmbb","UNC Men's Basketball Match Results Since 1949-1950 Season","Yes","Yes","Yes","Yes","Basketball","Male","Amateur","No","Scraping","No",2017-05-18,"0.1.0",2021-01-04,"0.2.2","No","No","Jay Lee (2021). uncmbb: UNC Men's Basketball Match Results Since 1949-1950
-
-  Season. R package version 0.2.2. https://CRAN.R-project.org/package=uncmbb","Sports performance analysis","United Kingdom","Male",2017,2021
-2020-12-14,"retrosheet","Import Professional Baseball Data from 'Retrosheet'","Yes","Yes","Yes","Yes (depends on other packages)","Baseball","Male","Professional","No","Scraping","No",2015-04-10,"1.0.1",2020-12-14,"1.1.3","No","No","Colin Douglas and Richard Scriven (2020). retrosheet: Import Professional Baseball
-
-  Data from 'Retrosheet'. R package version 1.1.3.
-
-  https://CRAN.R-project.org/package=retrosheet","Sports performance analysis","Canada","Male",2015,2020
-2020-12-04,"chess","Read, Write, Create and Explore Chess Games","Doubt","Yes","Yes","No","Chess","Both","NS","Yes","Compute/simulation","Yes",2020-11-25,"1.0.0",2020-12-04,"1.0.1","No","No","C. Lente (2020). chess: Read, Write, Create and Explore Chess Games. R package
-
-  version 1.0.1. https://CRAN.R-project.org/package=chess","Sports performance analysis","Brazil","Male",2020,2020
-2020-11-29,"shorts","Short Sprints","Yes","Yes","Yes","Yes","Running","Both","NS","Yes","Modeling/prediction","Yes",2020-04-23,"0.0.1",2020-11-29,"1.1.4","No","No","Mladen Jovanovic (2020). shorts: Short Sprints. R package version 1.1.4. url:
-
-  https://CRAN.R-project.org/package=shorts. doi: 10.5281/zenodo.3751836","Sports performance analysis","Serbia","Male",2020,2020
-2020-11-23,"comperes","Manage Competition Results","Yes","No","Yes","Yes","Basketball","Male","Both","Yes","Descriptive/classification","Yes",2018-05-11,"0.2.0",2020-11-23,"0.2.5","No","No","Evgeni Chasnovski (2020). comperes: Manage Competition Results. R package version
-
-  0.2.5. https://CRAN.R-project.org/package=comperes","Sports performance analysis","Ukraine","Male",2018,2020
-2020-11-19,"matuR","Athlete Maturation and Biobanding","No","Yes","Yes","Yes","Athletics","Both","NS","Yes","Preprocessing/visualization","No",2020-11-19,"0.0.1.0",2020-11-19,"0.0.1.0","No","No","Jose Fernandez (2020). matuR: Athlete Maturation and Biobanding. R package version
-
-  0.0.1.0. https://CRAN.R-project.org/package=matuR","Movement integration","Saudi Arabia","Male",2020,2020
-2020-10-14,"qqr","Data from Brazilian Soccer Championship","Yes","Yes","Yes","Yes","Football","Male","Professional","No","Scraping","No",2020-10-14,"0.0.1",2020-10-14,"0.0.1","No","No","Jeferson Andrade, Joao Melo, Maisa Andrade and Andre Kalinovski (2020). qqr: Data
-
-  from Brazilian Soccer Championship. R package version 0.0.1.
-
-  https://CRAN.R-project.org/package=qqr","Sports performance analysis","NA","Male",2020,2020
-2020-10-13,"gsisdecoder","High Efficient Functions to Decode NFL Player IDs","Yes","Yes","Yes","No","American Football","Male","Professional","No","Decoding","No",2020-10-13,"0.0.1",2020-10-13,"0.0.1","No","No","Sebastian Carl (2020). gsisdecoder: High Efficient Functions to Decode NFL Player
-
-  IDs. R package version 0.0.1. https://CRAN.R-project.org/package=gsisdecoder","Sports performance analysis","Germany","Male",2020,2020
-2020-09-26,"cyclestreets","Cycle Routing and Data for Cycling Advocacy","Doubt","Doubt","Yes","Yes","Cycling","Both","Amateur","No","Scraping","No",2018-05-03,"0.1.5",2020-09-26,"0.3.0","No","No","Robin Lovelace, Martin Lucas-Smith and Joey Talbot (2020). cyclestreets: Cycle
-
-  Routing and Data for Cycling Advocacy. R package version 0.3.0.
-
-  https://CRAN.R-project.org/package=cyclestreets","Movement integration","United Kingdom","Male",2018,2020
-2020-09-14,"PhysActBedRest","Marks Periods of 'Bedrest' in Actigraph Accelerometer Data","Doubt","No","Yes","Yes","Physical activity","Both","NS","Yes","Processing/classification","No",2016-04-06,"1.0",2020-09-14,"1.1","No","No","J. Dustin Tracy, Zhiyi Xu, Sari Acra, Kong Y. Chen, Maciej S. Buchowski and Thomas
-
-  Donnelly (2020). PhysActBedRest: Marks Periods of 'Bedrest' in Actigraph
-
-  Accelerometer Data. R package version 1.1.
-
-  https://CRAN.R-project.org/package=PhysActBedRest","Sports technology","United States of America","Male",2016,2020
-2020-08-05,"bigchess","Read, Write, Manipulate, Explore Chess PGN Files and R API to UCI Chess Engines","Doubt","No","Yes","Yes","Chess","Both","NS","Yes","Compute/simulation","No",2018-05-11,"1.0.0",2020-08-05,"1.9.1","No","No","Wojciech Rosa (2020). bigchess: Read, Write, Manipulate, Explore Chess PGN Files
-
-  and R API to UCI Chess Engines. R package version 1.9.1.
-
-  https://CRAN.R-project.org/package=bigchess","Sports performance analysis","United States of America","Male",2018,2020
-2020-08-05,"fivethirtyeight","Data and Code Behind the Stories and Interactives at 'FiveThirtyEight'","No","Doubt","Yes","Yes","Basketball/American Football/Baseball/Football/Tennis","Male","Professional","No","Scraping","Yes",2017-01-09,"0.1.0",2020-08-05,"0.6.1","No","No","Kim, A. Y. and Ismay, C. and Chunn, J. (2018) The fivethirtyeight R Package: 'Tame
-
-  Data' Principles for Introductory Statistics and Data Science Courses, Technology
-
-  Innovations in Statistics Education. 11(1)","Sports performance analysis","Poland","Male",2017,2020
-2020-06-26,"BasketballAnalyzeR","Analysis and Visualization of Basketball Data","Yes","Yes","Yes","Yes","Basketball","Male","Professional","Yes","Compute/visualization","No",2020-06-26,"0.5.0",2020-06-26,"0.6.0","No","No","Marco Sandri, Paola Zuccolotto and Marica Manisera (2020). BasketballAnalyzeR:
-
-  Analysis and Visualization of Basketball Data. R package version 0.5.0.
-
-  https://CRAN.R-project.org/package=BasketballAnalyzeR","Sports performance analysis","Italy","Male",2020,2020
-2020-06-25,"cherryblossom","Cherry Blossom Run Race Results","Yes","No","Yes","Yes","Running","Both","Professional","No","Scraping","No",2020-06-25,"0.1.0",2020-06-25,"0.1.0","No","No","Mine Ã‡etinkaya-Rundel (2020). cherryblossom: Cherry Blossom Run Race Results. R
-
-  package version 0.1.0. https://CRAN.R-project.org/package=cherryblossom","Sports performance analysis","United States of America","Female",2020,2020
-2020-06-21,"ggsoccer","Plot Soccer Event Data","Doubt","Yes","Yes","No","Football","Both","NS","No","Visualization","No",2019-05-14,"0.1.4",2020-06-21,"0.1.6","No","No","Ben Torvaney (2020). ggsoccer: Plot Soccer Event Data. R package version 0.1.6.
-
-  https://CRAN.R-project.org/package=ggsoccer","Sports performance analysis","United Kingdom","Male",2019,2020
-2020-05-25,"nhlapi","A Minimum-Dependency 'R' Interface to the 'NHL' API","Yes","No","Yes","No","Hockey","Male","Professional","Yes","Processing","Yes",2020-05-25,"0.1.2",2021-02-20,"0.1.4","No","No","Jozef Hajnala (2021). nhlapi: A Minimum-Dependency 'R' Interface to the 'NHL' API.
-
-  R package version 0.1.4. https://CRAN.R-project.org/package=nhlapi","Sports performance analysis","The Netherlands","Male",2020,2021
-2020-05-17,"PAutilities","Streamline Physical Activity Research","Doubt","Doubt","Yes","Yes","Physical activity","Both","NS","Yes","Scraping/preprocessing","Yes",2019-03-06,"0.1.2",2020-05-17,"1.0.1","No","No","Paul R. Hibbing (2019). PAutilities: Streamline physical activity research. URL
-
-  https://cran.r-project.org/package=PAutilities.","Movement integration","United States of America","Male",2019,2020
-2020-05-15,"scuba","Diving Calculations and Decompression Models","Doubt","No","Yes","Yes","Scuba diving","Both","Amateur","Yes","Descriptive","Yes",2006-01-05,"1.1-2",2020-05-15,"1.10-0","No","No","Adrian Baddeley (2020). scuba: Diving Calculations and Decompression Models. R
-
-  package version 1.10-0. https://CRAN.R-project.org/package=scuba","Sports performance analysis","Australia","Male",2006,2020
-2020-05-03,"trackeRapp","Interface for the Analysis of Running, Cycling and Swimming Data from GPS-Enabled Tracking Devices","Doubt","Yes","Yes","Yes","Running/Cycling/Swimming","Both","Amateur","No","Scraping","No",2019-04-12,"1.0",2020-05-03,"1.1","No","No","Ioannis Kosmidis and Robin Hornak (2020). trackeRapp: Interface for the Analysis
-
-  of Running, Cycling and Swimming Data from GPS-Enabled Tracking Devices. R package
-
-  version 1.1. https://CRAN.R-project.org/package=trackeRapp","Sports technology","United Kingdom","Male",2019,2020
-2020-04-19,"bysykkel","Get City Bike Data from Norway","Doubt","Doubt","Yes","No","Cycling","Both","Amateur","No","Scraping","No",2019-03-31,"0.1.1.0",2020-04-19,"0.3.1","No","No","Iman Ghayoornia (2020). bysykkel: Get City Bike Data from Norway. R package
-
-  version 0.3.1. https://CRAN.R-project.org/package=bysykkel","Movement integration","Norway","Male",2019,2020
-2020-04-06,"Anthropometry","Statistical Methods for Anthropometric Data","No","Doubt","Yes","Yes","Injury sports medicine","Both","NS","Yes","Compute","Yes",2014-03-07,"1.0",2020-04-06,"1.14","No","No","Guillermo Vinue (2017). Anthropometry: An R Package for Analysis of Anthropometric
-
-  Data. Journal of Statistical Software, 77(6), 1-39. doi:10.18637/jss.v077.i06","Athlete health","Spain","Male",2014,2020
-2020-03-28,"cricketr","Analyze Cricketers and Cricket Teams Based on ESPN Cricinfo Statsguru","Yes","Yes","Yes","Yes","Cricket","Male","Professional","Yes","Scraping/Compute","No",2015-12-30,"0.0.11",2020-03-28,"0.0.23","No","Yes","Tinniam V Ganesh (2020). cricketr: Analyze Cricketers and Cricket Teams Based on
-
-  ESPN Cricinfo Statsguru. R package version 0.0.23.
-
-  https://CRAN.R-project.org/package=cricketr","Sports performance analysis","India","Male",2015,2020
-2020-03-24,"eddington","Compute a Cyclist's Eddington Number","Doubt","No","Yes","Yes","Cycling","Both","NS","No","Compute/scraping","Yes",2020-03-24,"2.1.1",2020-03-24,"2.1.1","No","No","Paul Egeler (2020). eddington: Compute a Cyclist's Eddington Number. R package
-
-  version 2.1.1. https://CRAN.R-project.org/package=eddington","Sports performance analysis","United States of America","Male",2020,2020
-2020-03-03,"comperank","Ranking Methods for Competition Results","Yes","No","Yes","Yes","Billiard/basketball","Male","Professional","Yes","Compute","Yes",2018-05-30,"0.1.0",2020-03-03,"0.1.1","No","No","Evgeni Chasnovski (2020). comperank: Ranking Methods for Competition Results. R
-
-  package version 0.1.1. https://CRAN.R-project.org/package=comperank","Sports performance analysis","Ukraine","Male",2018,2020
-2020-03-01,"PlayerRatings","Dynamic Updating Methods for Player Ratings Estimation","Yes","Doubt","Yes","Yes","Australian Football/Chess/Mahjong","Both","Professional","Yes","Compute/prediction","Yes",2012-07-26,"1.0-0",2020-03-01,"1.1-0","No","No","Alec Stephenson and Jeff Sonas. (2020). PlayerRatings: Dynamic Updating Methods
-
-  for Player Ratings Estimation. R package version 1.1-0.
-
-  https://CRAN.R-project.org/package=PlayerRatings","Sports performance analysis","Australia","Male",2012,2020
-2020-02-25,"nhlscrape","Scrapes the 'NHL' API for Statistical Analysis","Yes","No","Yes","No","Hockey","Male","Professional","No","Scraping","No",2020-01-12,"0.1.2",2020-02-25,"0.1.3","No","No","Adam Azoulay (2020). nhlscrape: Scrapes the 'NHL' API for Statistical Analysis. R
-
-  package version 0.1.3. https://CRAN.R-project.org/package=nhlscrape","Sports performance analysis","Canada","Male",2020,2020
-2020-01-22,"teamcolors","Color Palettes for Pro Sports Teams","Doubt","Yes","Yes","Yes","Basketball/Football/American Football/Hockey","Both","Professional","No","Scraping","No",2017-10-01,"0.0.1",2020-01-22,"0.0.4","No","No","Benjamin S. Baumer and Gregory J. Matthews (2020). teamcolors: Color Palettes for
-
-  Pro Sports Teams. R package version 0.0.4.
-
-  https://CRAN.R-project.org/package=teamcolors","Sports technology","United States of America","Male",2017,2020
-2020-01-07,"sport","Sequential Pairwise Online Rating Techniques","Yes","No","Yes","Yes","Speedway","Male","Professional","Yes","Compute/prediction","Yes",2018-09-03,"0.1.0",2020-01-07,"0.2.0","No","No","Dawid Kaledkowski (2020). sport: Sequential Pairwise Online Rating Techniques. R
-
-  package version 0.2.0. https://CRAN.R-project.org/package=sport","Sports technology","Sweden","Male",2018,2020
-2019-10-05,"TouRnament","Tools for Sports Competitions","Yes","Yes","Yes","No","Football","Both","Professional","No","Classification","No",2019-10-05,"0.2.5",2019-10-05,"0.2.5","No","No","Tobias Wolfanger (2019). TouRnament: Tools for Sports Competitions. R package
-
-  version 0.2.5. https://CRAN.R-project.org/package=TouRnament","Sports performance analysis","Germany","Male",2019,2019
-2019-07-03,"socceR","Evaluating Sport Tournament Predictions","Yes","Yes","Yes","Yes","Football","Male","Professional","Yes","Simulation","No",2019-07-03,"0.1.1",2019-07-03,"0.1.1","No","No","Claus Thorn EkstrÃ¸m (2019). socceR: Evaluating Sport Tournament Predictions. R
-
-  package version 0.1.1. https://CRAN.R-project.org/package=socceR","Sports performance analysis","Denmark","Male",2019,2019
-2019-05-27,"piratings","Calculate Pi Ratings for Teams Competing in Sport Matches","Doubt","Yes","Yes","Yes","Football","Male","Professional","No","Compute/scraping","Yes",2019-05-27,"0.1.9",2019-05-27,"0.1.9","No","No","Lars Van Cutsem (2019). piratings: Calculate Pi Ratings for Teams Competing in
-
-  Sport Matches. R package version 0.1.9.
-
-  https://CRAN.R-project.org/package=piratings","Sports performance analysis","Belgium","Male",2019,2019
-2019-05-20,"volleystat","Detailed Statistics on Volleyball Matches","Yes","Yes","Yes","Yes","Volleyball","Both","Professional","No","Scraping","Yes",2019-02-26,"0.1.0",2019-05-20,"0.2.0","No","No","Viktor Bozhinov (2019). volleystat: Detailed Statistics on Volleyball Matches. R
-
-  package version 0.2.0. https://CRAN.R-project.org/package=volleystat","Sports performance analysis","Germany","Male",2019,2019
-2019-05-19,"InjurySeverityScore","Translate ICD-9 into Injury Severity Score","No","Doubt","Yes","No","Injury sports medicine","Both","NS","No","Scraping","No",2018-03-28,"0.0.0.1",2019-05-19,"0.0.0.2","No","No","Dajun Tian (2019). InjurySeverityScore: Translate ICD-9 into Injury Severity
-
-  Score. R package version 0.0.0.2.
-
-  https://CRAN.R-project.org/package=InjurySeverityScore","Athlete health","United States of America","Male",2018,2019
-2019-05-15,"trackeR","Infrastructure for Running, Cycling and Swimming Data from GPS-Enabled Tracking Devices","Doubt","Yes","Yes","Yes","Running/Cycling/Swimming","Both","Amateur","Yes","Compute/processing","Yes",2016-02-12,"0.0.1",2019-05-15,"1.5.2","No","No","Frick H, Kosmidis I (2017). Â“trackeR: Infrastructure for Running and Cycling Data
-
-from GPS-Enabled Tracking Devices in R.Â” _Journal of Statistical Software_, *82*(7),
-
-1-29. doi: 10.18637/jss.v082.i07 (URL: https://doi.org/10.18637/jss.v082.i07).","Sports technology","United Kingdom","Male",2016,2019
-2019-04-29,"NBAloveR","Help Basketball Data Analysis","Yes","Yes","Yes","Yes","Basketball","Male","Professional","No","Scraping/visualization","Yes",2019-04-29,"0.1.3.3",2019-04-29,"0.1.3.3","No","No","Koki Ando (2019). NBAloveR: Help Basketball Data Analysis. R package version
-
-  0.1.3.3. https://CRAN.R-project.org/package=NBAloveR","Sports performance analysis","Japan","Male",2019,2019
-2019-01-03,"bikeshare14","Bay Area Bike Share Trips in 2014","No","Doubt","Yes","Yes","Cycling","Both","Amateur","No","Scraping","No",2016-08-21,"0.1.0",2019-01-03,"0.1.2","No","No","Arunkumar Srinivasan (2019). bikeshare14: Bay Area Bike Share Trips in 2014. R
-
-  package version 0.1.2. https://CRAN.R-project.org/package=bikeshare14","Movement integration","United Kingdom","Male",2016,2019
-2018-11-15,"HMMpa","Analysing Accelerometer Data Using Hidden Markov Models","Yes","Yes","Yes","No","Physical activity","Both","NS","Yes","Compute/simulation","No",2014-02-25,"1.0",2018-11-15,"1.0.1","No","No","Vitali Witowski and Ronja Foraita (2018). HMMpa: Analysing Accelerometer Data
-
-  Using Hidden Markov Models. R package version 1.0.1.
-
-  https://CRAN.R-project.org/package=HMMpa","Sports technology","Deutschland","Male",2014,2018
-2018-08-24,"accelerometry","Functions for Processing Accelerometer Data","No","No","Yes","Yes","Physical activity","Both","NS","Yes","Processing","Yes",2013-08-04,"1.0",2018-08-24,"3.1.2","Yes","No","Dane R. Van Domelen (2018). accelerometry: Functions for Processing Accelerometer
-
-  Data. R package version 3.1.2. https://CRAN.R-project.org/package=accelerometry","Sports technology","United States of America","Male",2013,2018
-2018-08-24,"mvglmmRank","Multivariate Generalized Linear Mixed Models for Ranking Sports Teams","Yes","Yes","Yes","Yes","American Football/Basketball","Male","Professional","Yes","Modeling/prediction","No",2014-07-10,"1.0-2",2018-08-24,"1.2-2","No","No","Andrew T. Karl and Jennifer Broatch (2018). mvglmmRank: Multivariate Generalized
-
-  Linear Mixed Models for Ranking Sports Teams. R package version 1.2-2.
-
-  https://CRAN.R-project.org/package=mvglmmRank","Sports technology","United States of America","Male",2014,2018
-2018-06-13,"ROpenDota","Access OpenDota Services in R","No","No","Yes","No","Dota2","Male","Professional","No","Scraping","No",2017-05-04,"0.1.0",2018-06-13,"0.1.2","No","No","Rosdyana Kusuma (2018). ROpenDota: Access OpenDota Services in R. R package
-
-  version 0.1.2. https://CRAN.R-project.org/package=ROpenDota","eSports","Taipei","Male",2017,2018
-2018-05-11,"Observation","Collect and Process Physical Activity Direct Observation Data","Doubt","Yes","Yes","Yes","Physical activity","Both","NS","No","Scraping","Yes",2018-05-11,"0.2.0",2018-05-11,"0.2.0","No","No","Paul R. Hibbing (2018). Observation: Collect and Process Physical Activity Direct
-
-  Observation Data. URL https://github.com/paulhibbing/Observation/.","Movement integration","United States of America","Male",2018,2018
-2018-03-16,"mlbstats","Major League Baseball Player Statistics Calculator","Yes","No","Yes","No","Baseball","Male","Professional","Yes","Compute","No",2018-03-16,"0.1.0",2018-03-16,"0.1.0","No","No","Philip D. Waggoner (2018). mlbstats: Major League Baseball Player Statistics
-
-  Calculator. R package version 0.1.0. https://CRAN.R-project.org/package=mlbstats","Sports performance analysis","United States of America","Male",2018,2018
-2017-12-18,"SpatialBall","Spatial NBA Visualization and Analysis","Yes","Yes","Yes","Yes","Basketball","Male","Professional","Yes","Compute/visualization","Yes",2017-12-18,"0.1.0",2017-12-18,"0.1.0","No","No","Derek Corcoran (2017). SpatialBall: Spatial NBA Visualization and Analysis. R
-
-  package version 0.1.0. https://CRAN.R-project.org/package=SpatialBall","Sports performance analysis","Chile","Male",2017,2017
-2017-09-11,"opendotaR","Interface for OpenDota API","No","No","Yes","No","Dota2","Male","Professional","No","Scraping/preprocessing","No",2017-09-11,"0.1.4",2017-09-11,"0.1.4","No","No","Kari Gunnarsson (2017). opendotaR: Interface for OpenDota API. R package version
-
-  0.1.4. https://CRAN.R-project.org/package=opendotaR","eSports","Hong Kong","Male",2017,2017
-2017-06-15,"baseballDBR","Sabermetrics and Advanced Baseball Statistics","Yes","Yes","Yes","Yes","Baseball","Male","Professional","Yes","Compute","Yes",2017-06-15,"0.1.2",2017-06-15,"0.1.2","No","No","Kris Eberwein (2017). baseballDBR: Sabermetrics and Advanced Baseball Statistics.
-
-  R package version 0.1.2. https://CRAN.R-project.org/package=baseballDBR","Sports performance analysis","United States of America","Male",2017,2017
-2017-03-08,"NHLData","Scores for Every Season Since the Founding of the NHL in 1917","Yes","No","Yes","Yes","Hockey","Male","Professional","No","Scraping","No",2017-03-08,"1.0.0",2017-03-08,"1.0.0","No","No","D. Lukke Sweet (2017). NHLData: Scores for Every Season Since the Founding of the
-
-  NHL in 1917. R package version 1.0.0. https://CRAN.R-project.org/package=NHLData","Sports performance analysis","NA","Male",2017,2017
-2017-02-20,"colorr","Color Palettes for EPL, MLB, NBA, NHL, and NFL Teams","Doubt","Yes","Yes","No","Football/Baseball/Basketball/Hockey/American Football","Male","Professional","No","Scraping","No",2017-02-20,"1.0.0",2017-02-20,"1.0.0","No","No","Charles Crabtree (2017). colorr: Color Palettes for EPL, MLB, NBA, NHL, and NFL
-
-  Teams. R package version 1.0.0. https://CRAN.R-project.org/package=colorr","Sports technology","United States of America","Male",2017,2017
-2017-02-20,"pawacc","Physical Activity with Accelerometers","Yes","Yes","Yes","Yes","Physical activity","Both","NS","Yes","Processing/descriptive","No",2013-11-13,"1.1",2017-02-20,"1.2.2","No","No","Geraci M (2017). pawacc: Physical activity with accelerometers. R package version
-
-  1.2.2. Available at https://CRAN.R-project.org/package=pawacc.","Sports technology","United States of America","Male",2013,2017
-2016-12-16,"acc","Exploring Accelerometer Data","No","Yes","Yes","Yes","Physical activity","Both","NS","Yes","Processing/descriptive","No",2015-05-14,"1.0.2",2016-12-16,"1.3.3","No","No","Jaejoon Song and Matthew G. Cox (2016). acc: Exploring Accelerometer Data. R
-
-  package version 1.3.3. https://CRAN.R-project.org/package=acc","Sports technology","United States of America","Male",2015,2016
-2016-10-30,"RDota2","An R Steam API Client for Valve's Dota2","No","No","Yes","No","Dota2","Male","Professional","No","Scraping","Yes",2016-10-30,"0.1.6",2016-10-30,"0.1.6","No","Yes","Theo Boutaris (2016). RDota2: An R Steam API Client for Valve's Dota2. R package
-
-  version 0.1.6. https://CRAN.R-project.org/package=RDota2","eSports","United Kingdom","Male",2016,2016
-2016-08-30,"PASenseWear","Summarize Daily Physical Activity from 'SenseWear' Accelerometer Data","Yes","Yes","Yes","Yes","Physical activity","Both","NS","Yes","Descriptive","No",2016-08-30,"1.0",2016-08-30,"1.0","No","No","Yukun Zhang, Milad Yavari, Bob Haennel and Haocheng Li (2016). PASenseWear:
-
-  Summarize Daily Physical Activity from 'SenseWear' Accelerometer Data. R package
-
-  version 1.0. https://CRAN.R-project.org/package=PASenseWear","Sports technology","Canada","Female",2016,2016
-2016-08-12,"bundesligR","All Final Tables of the Bundesliga","Yes","Yes","Yes","Yes","Football","Male","Professional","No","Scraping","No",2016-08-12,"0.1.0",2016-08-12,"0.1.0","No","No","Philipp Ottolinger (2016). bundesligR: All Final Tables of the Bundesliga. R
-
-  package version 0.1.0. https://CRAN.R-project.org/package=bundesligR","Sports performance analysis","Deutschland","Male",2016,2016
-2016-06-12,"engsoccerdata","English and European Soccer Results 1871-2016","Yes","Yes","Yes","Yes","Football","Male","Professional","No","Scraping","No",2016-06-12,"0.1.5",2016-06-12,"0.1.5","No","No","James Curley (2016). engsoccerdata: English and European Soccer Results 1871-2016.
-
-  R package version 0.1.5. https://CRAN.R-project.org/package=engsoccerdata","Sports performance analysis","United States of America","Male",2016,2016
-2016-02-29,"tmpm","Trauma Mortality Prediction Model","No","Doubt","Yes","Yes","Injury sports medicine","Both","NS","Yes","Prediction/modeling","No",2016-02-29,"1.0.3",2016-02-29,"1.0.3","No","No","Cody Moore (2016). tmpm: Trauma Mortality Prediction Model. R package version
-
-  1.0.3. https://CRAN.R-project.org/package=tmpm","Athlete health","NA","Male",2016,2016
-2016-01-18,"cycleRtools","Tools for Cycling Data Analysis","Yes","Yes","Yes","Yes","Cycling","Both","Professional","Yes","Processing/Compute","Yes",2015-09-22,"1.0.0",2016-01-18,"1.1.1","No","No","Jordan Mackie (2016). cycleRtools: Tools for Cycling Data Analysis. R package
-
-  version 1.1.1. https://CRAN.R-project.org/package=cycleRtools","Sports performance analysis","United Kingdom","Male",2015,2016
-2015-12-09,"pitchRx","Tools for Harnessing 'MLBAM' 'Gameday' Data and Visualizing 'pitchfx'","Yes","Yes","Yes","Yes","Baseball","Male","Professional","No","Scraping/visualization","No",2013-02-18,"0.1",2015-12-09,"1.8.2","Yes","No","Carson Sievert (2014). Taming PITCHf/x Data with {pitchRx} and {XML2R} The R
-
-  Journal, 6(1). URL http://journal.r-project.org/archive/2014-1/sievert.pdf.","Sports performance analysis","United States of America","Male",2013,2015
-2015-11-05,"rchess","Chess Move, Generation/Validation, Piece Placement/ Movement, and Check/Checkmate/Stalemate Detection","Doubt","No","Yes","Yes","Chess","Both","Professional","No","Scraping/processing","No",2015-11-05,"0.1",2015-11-05,"0.1","No","No","Joshua Kunst (2015). rchess: Chess Move, Generation/Validation, Piece Placement/
-
-  Movement, and Check/Checkmate/Stalemate Detection. R package version 0.1.
-
-  https://CRAN.R-project.org/package=rchess","Sports performance analysis","Chile","Male",2015,2015
-2013-10-23,"fbRanks","Association Football (Soccer) Ranking via Poisson Regression","Yes","Yes","Yes","Yes","Football","Male","Amateur","Yes","Prediction/simulation","Yes",2013-03-29,"1.0",2013-10-23,"2.0","No","No","Eli Holmes (2013). fbRanks: Association Football (Soccer) Ranking via Poisson
-
-  Regression. R package version 2.0. https://CRAN.R-project.org/package=fbRanks","Sports performance analysis","United States of America","Female",2013,2013
-2013-04-07,"SportsAnalytics","Infrastructure for Sports Analytics","Yes","Yes","Yes","Yes","Football/Basketball","Male","Professional","No","Scraping/preprocessing","No",2011-10-12,"0.1",2013-04-07,"0.2","No","No","Manuel J. A. Eugster. SportsAnalytics: Infrastructure for Sports Analytics. R
-
-  package version 0.1 http://soccer.r-forge.r-project.org/","Sports performance analysis","Austria","Male",2011,2013
-2013-02-28,"heatex","Heat exchange calculations during physical activity","Doubt","No","Yes","Yes","Walking/Running/Cycling","Both","NS","No","Compute","No",2013-02-28,"1.0",2013-02-28,"1.0","No","No","Kerry Atkins (2013). heatex: Heat exchange calculations during physical activity..
-
-  R package version 1.0. https://CRAN.R-project.org/package=heatex","Movement integration","Australia","Male",2013,2013
-2011-01-20,"darts","Statistical Tools to Analyze Your Darts Game","No","No","Yes","No","Darts","Both","Amateur","Yes","Visualization/processing","No",2011-01-20,"1.0",2011-01-20,"1.0","No","No","Ryan Tibshirani (2011). darts: Statistical Tools to Analyze Your Darts Game. R
-
-  package version 1.0. https://CRAN.R-project.org/package=darts","Sports performance analysis","United States of America","Male",2011,2011
+Date;Package;Title;Description;Packages-VM;Packages-MC;Packages-R;Data;Sport;Gender;Category;Statistical_methodology;Metodhology_type;Tutorial;Creation_date;version_first;Date_last;Version_last;R_journal;JQAS;Citation;Category;Creator's Country;Creator's gender;year_creation;year_updated
+17/2/2021;GGIR;Raw Accelerometer Data Analysis;A tool to process and analyse data collected with wearable raw acceleration sensors ;Yes;Yes;Yes;Yes;Physical activity;Both;NS;Yes;Descriptive;Yes;8/8/2013;0.6-17;17/2/2021;2.3-0;No;No;van Hees V, Fang Z, Zhao J, Heywood J, Mirkes E, Sabia S, Migueles J (2020). _GGIR: Raw Accelerometer Data Analysis_. doi: 10.5281/zenodo.1051064 (URL: https://doi.org/10.5281/zenodo.1051064), R package version 2.2-0, <URL: van Hees V, Fang Z, Zhao J, Heywood J, Mirkes E, Sabia S, Migueles J (2020). _GGIR: Raw Accelerometer Data Analysis_. doi: 10.5281/zenodo.1051064 (URL: https://doi.org/10.5281/zenodo.1051064), R package version 2.2-0, <URL: https://CRAN.R-project.org/package=GGIR>.;Sports technology;The Netherlands;Male;2013;2021
+16/2/2021;AdvancedBasketballStats;Advanced Basketball Statistics;Provides different functionalities and calculations used in the world of basketball  analytics based on the book Basketball on Paper written by Dean Oliver.;Yes;Yes;Yes;No;Basketball;Both;Professional;Yes;Probabilities/prediction;Yes;16/2/2021;1.0.0;16/2/2021;1.0.0;No;No;Francisco Javier Cantero, Juan Jose Cuadrado and Universidad de Alcala de Henares (2021). AdvancedBasketballStats: Advanced Basketball Statistics. R package version 1.0.0. https://CRAN.R-project.org/package=AdvancedBasketballStats;Sports performance analysis;Spain;Male;2021;2021
+15/2/2021;nflfastR;Functions to Efficiently Access NFL Play by Play Data;A set of functions to access National Football League play-by-play data from <https://www.nfl.com/>.;Yes;Yes;Yes;Yes;American Football;Male;Professional;Yes;Scraping/probabilities;No;1/9/2020;2.2.1;15/2/2021;4.0.0;No;No;Sebastian Carl and Ben Baldwin (2021). nflfastR: Functions to Efficiently Access NFL Play by Play Data. R package version 4.0.0. https://CRAN.R-project.org/package=nflfastR;Sports performance analysis;United States of America;Female;2020;2021
+15/2/2021;runexp;Softball Run Expectancy using Markov Chains and Simulation;Implements two methods (discrete Markov chains and multinomial random simulation) of estimating runs scored in a softball scenario.;Yes;Yes;Yes;Yes;Softball;Both;NS;Yes;Simulation;No;15/2/2021;0.1.0;15/2/2021;0.1.0;No;No;Annie Sauer and Sierra Merkes (2021). runexp: Softball Run Expectancy using Markov Chains and Simulation. R package version 0.1.0. https://CRAN.R-project.org/package=runexp;Sports performance analysis;Germany;Male;2021;2021
+12/2/2021;BAwiR;Analysis of Basketball Data;"Visualization of European Basketball Data (<https://www.euroleague.net/>, <https://www.eurocupbasketball.com/> and <https:
+//www.acb.com/>)";Yes;Yes;Yes;No;Basketball;Male;Professional;No;Scraping/visualization;Yes;25/1/2018;1;12/2/2021;1.2.5;No;No;Guillermo Vinue (2021). BAwiR: Analysis of Basketball Data. R package version 1.2.5. https://CRAN.R-project.org/package=BAwiR;Sports performance analysis;Spain;Male;2018;2021
+10/2/2021;squashinformr;Politely Web Scrape Data from SquashInfo;Scrape SquashInfo <http://www.squashinfo.com/> for data on the Professional Squash Association World Tour and other squash events.;Yes;Yes;Yes;No;Squash;Both;Professional;No;Scraping;No;1/5/2020;0.1.2;10/2/2021;0.2.1;No;No;Hayden MacDonald (2021). squashinformr: Politely Web Scrape Data from SquashInfo. R package version 0.2.1. https://CRAN.R-project.org/package=squashinformr;Sports performance analysis;United Kingdom;Male;2020;2021
+8/2/2021;ffscrapr;API Client for Fantasy Football League Platforms;Helps access various Fantasy Football APIs and returning tidy dataframes which can be easily connected to other data sources.;Yes;Yes;Yes;Yes (depends on other packages);American Football;Male;Professional;No;Scraping;Yes;17/8/2020;1.0.0;8/2/2021;1.2.2;No;No;Tan Ho (2021). ffscrapr: API Client for Fantasy Football League Platforms. R package version 1.2.2. https://CRAN.R-project.org/package=ffscrapr;Sports performance analysis;Canada;Male;2020;2021
+3/2/2021;combinedevents;Calculate Scores and Marks for Track and Field Combined Events;Includes functions to calculate scores and marks for track and field combined events competitions (International Association of Athletics Federation (2001)).;Doubt;No;Yes;Yes;Athletics;Both;Professional;Yes;Scraping/preprocessing;No;23/9/2020;0.1.0;3/2/2021;0.1.1;No;No;Katie Frank (2021). combinedevents: Calculate Scores and Marks for Track and Field Combined Events. R package version 0.1.1. https://CRAN.R-project.org/package=combinedevents;Sports performance analysis;India;Male;2020;2021
+3/2/2021;yorkr;Analyze Cricket Performances Based on Data from Cricsheet;Analyzing performances of cricketers and cricket teams based on 'yaml' match data from Cricsheet <https://cricsheet.org/>;Yes;Yes;Yes;No;Cricket;Male;Professional;No;Scraping/preprocessing;No;1/4/2016;0.0.2;3/2/2021;0.0.19;No;No;Tinniam V Ganesh (2021). yorkr: Analyze Cricket Performances Based on Data from Cricsheet. R package version 0.0.19. https://CRAN.R-project.org/package=yorkr;Sports performance analysis;United States of America;Female;2016;2021
+28/1/2021;icdpicr;'ICD' Programs for Injury Categorization in R;Categorization and scoring of injury severity typically involves trained personnel with access to injured persons or their medical records.;No;Doubt;Yes;Yes;Injury sports medicine;Both;NS;No;Scraping/categorization;Yes;28/1/2021;1.0.0;28/1/2021;1.0.0;No;No;Adam Black and David Clark (2021). icdpicr: 'ICD' Programs for Injury Categorization in R. R package version 1.0.0. https://CRAN.R-project.org/package=icdpicr;Athlete health;United States of America;Male;2021;2021
+22/1/2021;PhysicalActivity;Process Accelerometer Data for Physical Activity Measurement;"Provides a function ""wearingMarking"" for classification of monitor wear and nonwear time intervals in accelerometer data collected to assess physical activity";Yes;Yes;Yes;Yes;Physical activity;Both;NS;Yes;Descriptive;No;15/9/2010;0.1-0;22/1/2021;0.2-4;No;No;Leena Choi, Cole Beck, Zhouwen Liu, Ryan Moore, Charles E. Matthews and Maciej S. Buchowski (2021). PhysicalActivity: Process Accelerometer Data for Physical Activity Measurement. R package version 0.2-4. https://CRAN.R-project.org/package=PhysicalActivity;Sports technology;United States of America;Female;2010;2021
+21/1/2021;Lahman;Sean 'Lahman' Baseball Database;Provides the tables from the 'Sean Lahman Baseball Database' as a set of R data.frames, and some examples show how many baseball questions can be investigated;Yes;Yes;Yes;Yes;Baseball;Male;Professional;No;Scraping/classification;Yes;30/9/2011;1.0-7;21/1/2021;8.0-1;No;No;Michael Friendly, Chris Dalzell, Martin Monkman and Dennis Murphy (2021). Lahman: Sean 'Lahman' Baseball Database. R package version 8.0-1. https://CRAN.R-project.org/package=Lahman;Sports performance analysis;Canada;Male;2011;2021
+13/1/2021;SwimmeR;Data Import, Cleaning, and Conversions for Swimming Results;Provide means of acquiring, and then analyzing, data from swimming (and diving) competitions. ;Yes;Yes;Yes;Yes;Swimming/Scuba diving;Both;Professional;No;Scraping/classification;Yes;10/10/2019;0.1.0.0;13/1/2021;0.7.2;No;No;Pilgrim, Gregory A. (2019). SwimmeR: Package for working with swimming data. version 0.5.4. https://github.com/gpilgrim2670/SwimmeR;Sports performance analysis;Korea;Female;2019;2021
+13/1/2021;tashu;Analysis and Prediction of Bicycle Rental Amount;Provides functions for analyzing citizens' bicycle usage pattern and predicting rental amount on specific conditions. ;No;Doubt;Yes;Yes (depends on other packages);Cycling;Both;Amateur;Yes;Prediction/preprocessing;Yes;4/9/2019;0.1.0;13/1/2021;0.1.1;No;No;Jiwon Min (2021). tashu: Analysis and Prediction of Bicycle Rental Amount. R package version 0.1.1. https://CRAN.R-project.org/package=tashu;Movement integration;United States of America;Male;2019;2021
+12/1/2021;fitzRoy;Easily Scrape and Process AFL Data;Scraping and processing Australia Rules Football (AFL) data (<https://afltables.com/afl/afl_index.html>, <https://www.footywire.com> and <https://squiggle.com.au>);No;No;Yes;No;Australian Football;Male;Professional;Yes;Scraping/preprocessing;Yes;30/11/2019;0.2.0;12/1/2021;0.3.3;Yes;No;James Day, Robert Nguyen and Oscar Lane (2021). fitzRoy: Easily Scrape and Process AFL Data. R package version 0.3.3. https://CRAN.R-project.org/package=fitzRoy;Sports performance analysis;Australia;Male;2019;2021
+10/1/2021;arctools;Processing and Physical Activity Summaries of Minute Level Activity Data;Provides functions to process minute level actigraphy-measured activity counts data and extract commonly used physical activity volume and fragmentation metrics.;Yes;No;Yes;Yes;Physical activity;Both;NS;Yes;Extraction/processing;Yes;27/11/2020;1.0.0;10/1/2021;1.1.0;No;No;Marta Karas, Jacek Urbanek and Jennifer Schrack (2021). arctools: Processing and Physical Activity Summaries of Minute Level Activity Data. R package version 1.1.0. https://CRAN.R-project.org/package=arctools;Movement integration;United States of America;Female;2020;2021
+8/1/2021;fflr;Collect ESPN Fantasy Football Data;Format the raw data from the ESPN fantasy football API as data frames. Retrieve data on public leagues, rosters, athletes, and matches.;Yes;Yes;Yes;Yes;American Football;Male;Professional;No;Scraping;Yes;27/10/2020;0.3.8;8/1/2021;0.3.15;No;No;Kiernan Nicholls (2021). fflr: Collect ESPN Fantasy Football Data. R package version 0.3.15. https://CRAN.R-project.org/package=fflr;Sports performance analysis;United States of America;Male;2020;2021
+7/1/2021;nbapalettes;An NBA Jersey Palette Generator;Palettes generated from NBA jersey colorways.;Doubt;Yes;Yes;Yes;Basketball;Male;Professional;No;Scraping;No;7/1/2021;0.1.0;7/1/2021;0.1.0;No;No;Murray Josh (2021). nbapalettes: An NBA Jersey Palette Generator. R package version 0.1.0. https://CRAN.R-project.org/package=nbapalettes;Sports technology;Canada;Male;2021;2021
+6/1/2021;NFLSimulatoR;Simulating Plays and Drives in the NFL;The intent here is to enable the simulation of plays/drives and evaluate game-play strategies in the National Football League (NFL).;Yes;Yes;Yes;No;American Football;Male;Professional;Yes;Simulation;Yes;23/11/2020;0.1.0;6/1/2021;0.3.0;No;No;Ryan Elmore, Ben Williams and Will Palmquist (2021). NFLSimulatoR: Simulating Plays and Drives in the NFL. R package version 0.3.0. https://CRAN.R-project.org/package=NFLSimulatoR;Sports performance analysis;United States of America;Male;2020;2021
+4/1/2021;aRbs;Find Arbitrage Opportunities for Sports Matches;Arbitrage opportunities do.;Doubt;Yes;Yes;No;Arbitrage;Both;Professional;No;Scraping;No;24/11/2020;0.0.1;4/1/2021;0.1.0;No;No;Andrew Little (2021). aRbs: Find Arbitrage Opportunities for Sports Matches. R package version 0.1.0. https://CRAN.R-project.org/package=aRbs;Sports performance analysis;United States of America;Male;2020;2021
+4/1/2021;uncmbb;UNC Men's Basketball Match Results Since 1949-1950 Season;Dataset contains select attributes for each match result since 1949-1950 season for UNC men's basketball team.;Yes;Yes;Yes;Yes;Basketball;Male;Amateur;No;Scraping;No;18/5/2017;0.1.0;4/1/2021;0.2.2;No;No;Jay Lee (2021). uncmbb: UNC Men's Basketball Match Results Since 1949-1950 Season. R package version 0.2.2. https://CRAN.R-project.org/package=uncmbb;Sports performance analysis;United Kingdom;Male;2017;2021
+14/12/2020;retrosheet;Import Professional Baseball Data from 'Retrosheet';A collection of tools to import and structure the (currently) single-season event, game-log, roster, and schedule data available from <https://www.retrosheet.org>. ;Yes;Yes;Yes;Yes (depends on other packages);Baseball;Male;Professional;No;Scraping;No;10/4/2015;1.0.1;14/12/2020;1.1.3;No;No;Colin Douglas and Richard Scriven (2020). retrosheet: Import Professional Baseball Data from 'Retrosheet'. R package version 1.1.3. https://CRAN.R-project.org/package=retrosheet;Sports performance analysis;Canada;Male;2015;2020
+4/12/2020;chess;Read, Write, Create and Explore Chess Games;This is an opinionated wrapper around the python-chess package. It allows users to read and write PGN files as well as create and explore game trees.;Doubt;Yes;Yes;No;Chess;Both;NS;Yes;Compute/simulation;Yes;25/11/2020;1.0.0;4/12/2020;1.0.1;No;No;C. Lente (2020). chess: Read, Write, Create and Explore Chess Games. R package version 1.0.1. https://CRAN.R-project.org/package=chess;Sports performance analysis;Brazil;Male;2020;2020
+29/11/2020;shorts;Short Sprints;Create short sprint (<6sec) profiles using the split times or the radar gun data.;Yes;Yes;Yes;Yes;Running;Both;NS;Yes;Modeling/prediction;Yes;23/4/2020;0.0.1;29/11/2020;1.1.4;No;No;Mladen Jovanovic (2020). shorts: Short Sprints. R package version 1.1.4. url: https://CRAN.R-project.org/package=shorts. doi: 10.5281/zenodo.3751836;Sports performance analysis;Serbia;Male;2020;2020
+23/11/2020;comperes;Manage Competition Results;Tools for storing and managing competition results. ;Yes;No;Yes;Yes;Basketball;Male;Both;Yes;Descriptive/classification;Yes;11/5/2018;0.2.0;23/11/2020;0.2.5;No;No;Evgeni Chasnovski (2020). comperes: Manage Competition Results. R package version 0.2.5. https://CRAN.R-project.org/package=comperes;Sports performance analysis;Ukraine;Male;2018;2020
+19/11/2020;matuR;Athlete Maturation and Biobanding;Identifying maturation stages across young athletes is paramount for talent identification.;No;Yes;Yes;Yes;Athletics;Both;NS;Yes;Preprocessing/visualization;No;19/11/2020;0.0.1.0;19/11/2020;0.0.1.0;No;No;Jose Fernandez (2020). matuR: Athlete Maturation and Biobanding. R package version 0.0.1.0. https://CRAN.R-project.org/package=matuR;Movement integration;Saudi Arabia;Male;2020;2020
+14/10/2020;qqr;Data from Brazilian Soccer Championship;Get data about the Brazilian soccer championship since 2014 (<https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/>).;Yes;Yes;Yes;Yes;Football;Male;Professional;No;Scraping;No;14/10/2020;0.0.1;14/10/2020;0.0.1;No;No;Jeferson Andrade, Joao Melo, Maisa Andrade and Andre Kalinovski (2020). qqr: Data from Brazilian Soccer Championship. R package version 0.0.1. https://CRAN.R-project.org/package=qqr;Sports performance analysis;NA;Male;2020;2020
+13/10/2020;gsisdecoder;High Efficient Functions to Decode NFL Player IDs;A set of high efficient functions to decode identifiers of National Football League players.;Yes;Yes;Yes;No;American Football;Male;Professional;No;Decoding;No;13/10/2020;0.0.1;13/10/2020;0.0.1;No;No;Sebastian Carl (2020). gsisdecoder: High Efficient Functions to Decode NFL Player IDs. R package version 0.0.1. https://CRAN.R-project.org/package=gsisdecoder;Sports performance analysis;Germany;Male;2020;2020
+26/9/2020;cyclestreets;Cycle Routing and Data for Cycling Advocacy;An interface to the cycle routing/data services provided by 'CycleStreets', a not-for-profit social enterprise and advocacy organisation.;Doubt;Doubt;Yes;Yes;Cycling;Both;Amateur;No;Scraping;No;3/5/2018;0.1.5;26/9/2020;0.3.0;No;No;Robin Lovelace, Martin Lucas-Smith and Joey Talbot (2020). cyclestreets: Cycle Routing and Data for Cycling Advocacy. R package version 0.3.0. https://CRAN.R-project.org/package=cyclestreets;Movement integration;United Kingdom;Male;2018;2020
+14/9/2020;PhysActBedRest;Marks Periods of 'Bedrest' in Actigraph Accelerometer Data;To categorize accelerometer readings collected in free-living, preprocessed and compressed as counts in a specified time period termed epoch as either bedrest or active.;Doubt;No;Yes;Yes;Physical activity;Both;NS;Yes;Processing/classification;No;6/4/2016;1;14/9/2020;1.1;No;No;J. Dustin Tracy, Zhiyi Xu, Sari Acra, Kong Y. Chen, Maciej S. Buchowski and Thomas Donnelly (2020). PhysActBedRest: Marks Periods of 'Bedrest' in Actigraph Accelerometer Data. R package version 1.1. https://CRAN.R-project.org/package=PhysActBedRest;Sports technology;United States of America;Male;2016;2020
+5/8/2020;bigchess;Read, Write, Manipulate, Explore Chess PGN Files and R API to UCI Chess Engines;Provides functions for reading *.PGN files with more than one game, including large files without copying it into RAM;Doubt;No;Yes;Yes;Chess;Both;NS;Yes;Compute/simulation;No;11/5/2018;1.0.0;5/8/2020;1.9.1;No;No;Wojciech Rosa (2020). bigchess: Read, Write, Manipulate, Explore Chess PGN Files and R API to UCI Chess Engines. R package version 1.9.1. https://CRAN.R-project.org/package=bigchess;Sports performance analysis;United States of America;Male;2018;2020
+5/8/2020;fivethirtyeight;Data and Code Behind the Stories and Interactives at 'FiveThirtyEight';Datasets and code published by the data journalism website 'FiveThirtyEight' available at <https://github.com/fivethirtyeight/data>. ;No;Doubt;Yes;Yes;Basketball/American Football/Baseball/Football/Tennis;Male;Professional;No;Scraping;Yes;9/1/2017;0.1.0;5/8/2020;0.6.1;No;No;Kim, A. Y. and Ismay, C. and Chunn, J. (2018) The fivethirtyeight R Package: 'Tame Data' Principles for Introductory Statistics and Data Science Courses, Technology Innovations in Statistics Education. 11(1);Sports performance analysis;Poland;Male;2017;2020
+26/6/2020;BasketballAnalyzeR;Analysis and Visualization of Basketball Data;Contains data and code to accompany the book P. Zuccolotto and M. Manisera (2020) Basketball Data Science.;Yes;Yes;Yes;Yes;Basketball;Male;Professional;Yes;Compute/visualization;No;26/6/2020;0.5.0;26/6/2020;0.6.0;No;No;Marco Sandri, Paola Zuccolotto and Marica Manisera (2020). BasketballAnalyzeR: Analysis and Visualization of Basketball Data. R package version 0.5.0. https://CRAN.R-project.org/package=BasketballAnalyzeR;Sports performance analysis;Italy;Male;2020;2020
+25/6/2020;cherryblossom;Cherry Blossom Run Race Results;Race results of the Cherry Blossom Run, which is an annual road race that takes place in Washington, DC.;Yes;No;Yes;Yes;Running;Both;Professional;No;Scraping;No;25/6/2020;0.1.0;25/6/2020;0.1.0;No;No;Mine Çetinkaya-Rundel (2020). cherryblossom: Cherry Blossom Run Race Results. R package version 0.1.0. https://CRAN.R-project.org/package=cherryblossom;Sports performance analysis;United States of America;Female;2020;2020
+It ;ggsoccer;Plot Soccer Event Data;It provides a set of functions for elegantly displaying and exploring soccer event data with 'ggplot2'. ;Doubt;Yes;Yes;No;Football;Both;NS;No;Visualization;No;14/5/2019;0.1.4;21/6/2020;0.1.6;No;No;Ben Torvaney (2020). ggsoccer: Plot Soccer Event Data. R package version 0.1.6. https://CRAN.R-project.org/package=ggsoccer;Sports performance analysis;United Kingdom;Male;2019;2020
+25/5/2020;nhlapi;A Minimum-Dependency 'R' Interface to the 'NHL' API;Retrieves and processes the data exposed by the open 'NHL' API. This includes information on players, teams, games, tournaments, drafts, schedules and other endpoints.;Yes;No;Yes;No;Hockey;Male;Professional;Yes;Processing;Yes;25/5/2020;0.1.2;20/2/2021;0.1.4;No;No;Jozef Hajnala (2021). nhlapi: A Minimum-Dependency 'R' Interface to the 'NHL' API. R package version 0.1.4. https://CRAN.R-project.org/package=nhlapi;Sports performance analysis;The Netherlands;Male;2020;2021
+17/5/2020;PAutilities;Streamline Physical Activity Research;A collection of utilities that are useful for a broad range of tasks that are common in physical activity research;Doubt;Doubt;Yes;Yes;Physical activity;Both;NS;Yes;Scraping/preprocessing;Yes;6/3/2019;0.1.2;17/5/2020;1.0.1;No;No;Paul R. Hibbing (2019). PAutilities: Streamline physical activity research. URL https://cran.r-project.org/package=PAutilities.;Movement integration;United States of America;Male;2019;2020
+15/5/2020;scuba;Diving Calculations and Decompression Models;Code for describing and manipulating scuba diving profiles and decompression models.;Doubt;No;Yes;Yes;Scuba diving;Both;Amateur;Yes;Descriptive;Yes;5/1/2006;1.1-2;15/5/2020;1.10-0;No;No;Adrian Baddeley (2020). scuba: Diving Calculations and Decompression Models. R package version 1.10-0. https://CRAN.R-project.org/package=scuba;Sports performance analysis;Australia;Male;2006;2020
+3/5/2020;trackeRapp;Interface for the Analysis of Running, Cycling and Swimming Data from GPS-Enabled Tracking Devices;Provides an integrated user interface and workflow for the analysis of running, cycling and swimming data from GPS-enabled tracking devices through the 'trackeR';Doubt;Yes;Yes;Yes;Running/Cycling/Swimming;Both;Amateur;No;Scraping;No;12/4/2019;1;3/5/2020;1.1;No;No;Ioannis Kosmidis and Robin Hornak (2020). trackeRapp: Interface for the Analysis of Running, Cycling and Swimming Data from GPS-Enabled Tracking Devices. R package version 1.1. https://CRAN.R-project.org/package=trackeRapp;Sports technology;United Kingdom;Male;2019;2020
+19/4/2020;bysykkel;Get City Bike Data from Norway;Functions to get and download city bike data from the website and API service of each city bike service in Norway. ;Doubt;Doubt;Yes;No;Cycling;Both;Amateur;No;Scraping;No;31/3/2019;0.1.1.0;19/4/2020;0.3.1;No;No;Iman Ghayoornia (2020). bysykkel: Get City Bike Data from Norway. R package version 0.3.1. https://CRAN.R-project.org/package=bysykkel;Movement integration;Norway;Male;2019;2020
+6/4/2020;Anthropometry;Statistical Methods for Anthropometric Data;Statistical methodologies especially developed to analyze anthropometric data.;No;Doubt;Yes;Yes;Injury sports medicine;Both;NS;Yes;Compute;Yes;7/3/2014;1;6/4/2020;1.14;No;No;Guillermo Vinue (2017). Anthropometry: An R Package for Analysis of Anthropometric Data. Journal of Statistical Software, 77(6), 1-39. doi:10.18637/jss.v077.i06;Athlete health;Spain;Male;2014;2020
+28/3/2020;cricketr;Analyze Cricketers and Cricket Teams Based on ESPN Cricinfo Statsguru;Tools for analyzing performances of cricketers based on stats in ESPN Cricinfo Statsguru.;Yes;Yes;Yes;Yes;Cricket;Male;Professional;Yes;Scraping/Compute;No;30/12/2015;0.0.11;28/3/2020;0.0.23;No;Yes;Tinniam V Ganesh (2020). cricketr: Analyze Cricketers and Cricket Teams Based on ESPN Cricinfo Statsguru. R package version 0.0.23. https://CRAN.R-project.org/package=cricketr;Sports performance analysis;India;Male;2015;2020
+24/3/2020;eddington;Compute a Cyclist's Eddington Number;Compute a cyclist's Eddington number, including efficiently computing cumulative E over a vector. ;Doubt;No;Yes;Yes;Cycling;Both;NS;No;Compute/scraping;Yes;24/3/2020;2.1.1;24/3/2020;2.1.1;No;No;Paul Egeler (2020). eddington: Compute a Cyclist's Eddington Number. R package version 2.1.1. https://CRAN.R-project.org/package=eddington;Sports performance analysis;United States of America;Male;2020;2020
+3/3/2020;comperank;Ranking Methods for Competition Results;Compute ranking and rating based on competition results.;Yes;No;Yes;Yes;Billiard/basketball;Male;Professional;Yes;Compute;Yes;30/5/2018;0.1.0;3/3/2020;0.1.1;No;No;Evgeni Chasnovski (2020). comperank: Ranking Methods for Competition Results. R package version 0.1.1. https://CRAN.R-project.org/package=comperank;Sports performance analysis;Ukraine;Male;2018;2020
+1/3/2020;PlayerRatings;Dynamic Updating Methods for Player Ratings Estimation;Implements schemes for estimating player or team skill based on dynamic updating. Implemented methods include Elo, Glicko, Glicko-2 and Stephenson. ;Yes;Doubt;Yes;Yes;Australian Football/Chess/Mahjong;Both;Professional;Yes;Compute/prediction;Yes;26/7/2012;1.0-0;1/3/2020;1.1-0;No;No;Alec Stephenson and Jeff Sonas. (2020). PlayerRatings: Dynamic Updating Methods for Player Ratings Estimation. R package version 1.1-0. https://CRAN.R-project.org/package=PlayerRatings;Sports performance analysis;Australia;Male;2012;2020
+25/2/2020;nhlscrape;Scrapes the 'NHL' API for Statistical Analysis;Add game events to a database file to use for statistical analysis of hockey games. ;Yes;No;Yes;No;Hockey;Male;Professional;No;Scraping;No;12/1/2020;0.1.2;25/2/2020;0.1.3;No;No;Adam Azoulay (2020). nhlscrape: Scrapes the 'NHL' API for Statistical Analysis. R package version 0.1.3. https://CRAN.R-project.org/package=nhlscrape;Sports performance analysis;Canada;Male;2020;2020
+22/1/2020;teamcolors;Color Palettes for Pro Sports Teams;Provides color palettes corresponding to professional and amateur, sports teams. ;Doubt;Yes;Yes;Yes;Basketball/Football/American Football/Hockey;Both;Professional;No;Scraping;No;1/10/2017;0.0.1;22/1/2020;0.0.4;No;No;Benjamin S. Baumer and Gregory J. Matthews (2020). teamcolors: Color Palettes for Pro Sports Teams. R package version 0.0.4. https://CRAN.R-project.org/package=teamcolors;Sports technology;United States of America;Male;2017;2020
+7/1/2020;sport;Sequential Pairwise Online Rating Techniques;Calculates ratings for two-player or multi-player challenges. ;Yes;No;Yes;Yes;Speedway;Male;Professional;Yes;Compute/prediction;Yes;3/9/2018;0.1.0;7/1/2020;0.2.0;No;No;Dawid Kaledkowski (2020). sport: Sequential Pairwise Online Rating Techniques. R package version 0.2.0. https://CRAN.R-project.org/package=sport;Sports technology;Sweden;Male;2018;2020
+5/10/2019;TouRnament;Tools for Sports Competitions;Contains two functions related to sports competitions. One to create league tables and one to create a match schedule.;Yes;Yes;Yes;No;Football;Both;Professional;No;Classification;No;5/10/2019;0.2.5;5/10/2019;0.2.5;No;No;Tobias Wolfanger (2019). TouRnament: Tools for Sports Competitions. R package version 0.2.5. https://CRAN.R-project.org/package=TouRnament;Sports performance analysis;Germany;Male;2019;2019
+3/7/2019;socceR;Evaluating Sport Tournament Predictions;Functions for evaluating tournament predictions, simulating results from individual soccer matches and tournaments.;Yes;Yes;Yes;Yes;Football;Male;Professional;Yes;Simulation;No;3/7/2019;0.1.1;3/7/2019;0.1.1;No;No;Claus Thorn Ekstrøm (2019). socceR: Evaluating Sport Tournament Predictions. R package version 0.1.1. https://CRAN.R-project.org/package=socceR;Sports performance analysis;Denmark;Male;2019;2019
+27/5/2019;piratings;Calculate Pi Ratings for Teams Competing in Sport Matches;Calculate and optimize dynamic performance ratings of association football teams competing in matches.;Doubt;Yes;Yes;Yes;Football;Male;Professional;No;Compute/scraping;Yes;27/5/2019;0.1.9;27/5/2019;0.1.9;No;No;Lars Van Cutsem (2019). piratings: Calculate Pi Ratings for Teams Competing in Sport Matches. R package version 0.1.9. https://CRAN.R-project.org/package=piratings;Sports performance analysis;Belgium;Male;2019;2019
+20/5/2019;volleystat;Detailed Statistics on Volleyball Matches;Volleyball match statistics of the German volleyball first division league (seasons 2013/2014 to 2018/2019;Yes;Yes;Yes;Yes;Volleyball;Both;Professional;No;Scraping;Yes;26/2/2019;0.1.0;20/5/2019;0.2.0;No;No;Viktor Bozhinov (2019). volleystat: Detailed Statistics on Volleyball Matches. R package version 0.2.0. https://CRAN.R-project.org/package=volleystat;Sports performance analysis;Germany;Male;2019;2019
+19/5/2019;InjurySeverityScore;Translate ICD-9 into Injury Severity Score;Calculate the injury severity score (ISS) based on the dictionary in 'ICDPIC' from <https://ideas.repec.org/c/boc/bocode/s457028.html>;No;Doubt;Yes;No;Injury sports medicine;Both;NS;No;Scraping;No;28/3/2018;0.0.0.1;19/5/2019;0.0.0.2;No;No;Dajun Tian (2019). InjurySeverityScore: Translate ICD-9 into Injury Severity Score. R package version 0.0.0.2. https://CRAN.R-project.org/package=InjurySeverityScore;Athlete health;United States of America;Male;2018;2019
+15/5/2019;trackeR;Infrastructure for Running, Cycling and Swimming Data from GPS-Enabled Tracking Devices;Provides infrastructure for handling running, cycling and swimming data from GPS-enabled tracking devices within R.;Doubt;Yes;Yes;Yes;Running/Cycling/Swimming;Both;Amateur;Yes;Compute/processing;Yes;12/2/2016;0.0.1;15/5/2019;1.5.2;No;No;Frick H, Kosmidis I (2017). “trackeR: Infrastructure for Running and Cycling Data from GPS-Enabled Tracking Devices in R.” _Journal of Statistical Software_, *82*(7), 1-29. doi: 10.18637/jss.v082.i07 (URL: https://doi.org/10.18637/jss.v082.i07).;Sports technology;United Kingdom;Male;2016;2019
+29/4/2019;NBAloveR;Help Basketball Data Analysis;Provides interface to the online basketball data resources such as Basketball reference API <https://www.basketball-reference.com/>.;Yes;Yes;Yes;Yes;Basketball;Male;Professional;No;Scraping/visualization;Yes;29/4/2019;0.1.3.3;29/4/2019;0.1.3.3;No;No;Koki Ando (2019). NBAloveR: Help Basketball Data Analysis. R package version 0.1.3.3. https://CRAN.R-project.org/package=NBAloveR;Sports performance analysis;Japan;Male;2019;2019
+3/1/2019;bikeshare14;Bay Area Bike Share Trips in 2014;Anonymised Bay Area bike share trip data for the year 2014. Also contains additional metadata on stations and weather.;No;Doubt;Yes;Yes;Cycling;Both;Amateur;No;Scraping;No;21/8/2016;0.1.0;3/1/2019;0.1.2;No;No;Arunkumar Srinivasan (2019). bikeshare14: Bay Area Bike Share Trips in 2014. R package version 0.1.2. https://CRAN.R-project.org/package=bikeshare14;Movement integration;United Kingdom;Male;2016;2019
+15/11/2018;HMMpa;Analysing Accelerometer Data Using Hidden Markov Models;Analysing time-series accelerometer data to quantify length and intensity of physical activity using hidden Markov models. ;Yes;Yes;Yes;No;Physical activity;Both;NS;Yes;Compute/simulation;No;25/2/2014;1;15/11/2018;1.0.1;No;No;Vitali Witowski and Ronja Foraita (2018). HMMpa: Analysing Accelerometer Data Using Hidden Markov Models. R package version 1.0.1. https://CRAN.R-project.org/package=HMMpa;Sports technology;Deutschland;Male;2014;2018
+24/8/2018;accelerometry;Functions for Processing Accelerometer Data;A collection of functions that perform operations on time-series accelerometer data, such as identify non-wear time or flag minutes.;No;No;Yes;Yes;Physical activity;Both;NS;Yes;Processing;Yes;4/8/2013;1;24/8/2018;3.1.2;Yes;No;Dane R. Van Domelen (2018). accelerometry: Functions for Processing Accelerometer Data. R package version 3.1.2. https://CRAN.R-project.org/package=accelerometry;Sports technology;United States of America;Male;2013;2018
+24/8/2018;mvglmmRank;Multivariate Generalized Linear Mixed Models for Ranking Sports Teams;Maximum likelihood estimates are obtained via an EM algorithm with either a first-order or a fully exponential Laplace approximation.;Yes;Yes;Yes;Yes;American Football/Basketball;Male;Professional;Yes;Modeling/prediction;No;10/7/2014;1.0-2;24/8/2018;1.2-2;No;No;Andrew T. Karl and Jennifer Broatch (2018). mvglmmRank: Multivariate Generalized Linear Mixed Models for Ranking Sports Teams. R package version 1.2-2. https://CRAN.R-project.org/package=mvglmmRank;Sports technology;United States of America;Male;2014;2018
+13/6/2018;ROpenDota;Access OpenDota Services in R;Provides a client for the API of OpenDota (web service which is provide DOTA2 real time data).;No;No;Yes;No;Dota2;Male;Professional;No;Scraping;No;4/5/2017;0.1.0;13/6/2018;0.1.2;No;No;Rosdyana Kusuma (2018). ROpenDota: Access OpenDota Services in R. R package version 0.1.2. https://CRAN.R-project.org/package=ROpenDota;eSports;Taipei;Male;2017;2018
+11/5/2018;Observation;Collect and Process Physical Activity Direct Observation Data;To provide a free and convenient way of collecting and processing physical activity-specific direct observation data.;Doubt;Yes;Yes;Yes;Physical activity;Both;NS;No;Scraping;Yes;11/5/2018;0.2.0;11/5/2018;0.2.0;No;No;Paul R. Hibbing (2018). Observation: Collect and Process Physical Activity Direct Observation Data. URL https://github.com/paulhibbing/Observation/.;Movement integration;United States of America;Male;2018;2018
+16/3/2018;mlbstats;Major League Baseball Player Statistics Calculator;Computational functions for player metrics in major league baseball including batting, pitching, fielding, base-running, and overall player statistics. ;Yes;No;Yes;No;Baseball;Male;Professional;Yes;Compute;No;16/3/2018;0.1.0;16/3/2018;0.1.0;No;No;Philip D. Waggoner (2018). mlbstats: Major League Baseball Player Statistics Calculator. R package version 0.1.0. https://CRAN.R-project.org/package=mlbstats;Sports performance analysis;United States of America;Male;2018;2018
+18/12/2017;SpatialBall;Spatial NBA Visualization and Analysis;Creates offensive and defensive shot charts for teams, players and seasons, and more comprehensively for spatial analysis of NBA data. ;Yes;Yes;Yes;Yes;Basketball;Male;Professional;Yes;Compute/visualization;Yes;18/12/2017;0.1.0;18/12/2017;0.1.0;No;No;Derek Corcoran (2017). SpatialBall: Spatial NBA Visualization and Analysis. R package version 0.1.0. https://CRAN.R-project.org/package=SpatialBall;Sports performance analysis;Chile;Male;2017;2017
+11/9/2017;opendotaR;Interface for OpenDota API;Enables the usage of the OpenDota API from <https://www.opendota.com/>;No;No;Yes;No;Dota2;Male;Professional;No;Scraping/preprocessing;No;11/9/2017;0.1.4;11/9/2017;0.1.4;No;No;Kari Gunnarsson (2017). opendotaR: Interface for OpenDota API. R package version 0.1.4. https://CRAN.R-project.org/package=opendotaR;eSports;Hong Kong;Male;2017;2017
+15/6/2017;baseballDBR;Sabermetrics and Advanced Baseball Statistics;A tool for gathering and analyzing data from the Baseball Databank <http://www.baseball-databank.org/>, which includes player performance statistics from MLB.;Yes;Yes;Yes;Yes;Baseball;Male;Professional;Yes;Compute;Yes;15/6/2017;0.1.2;15/6/2017;0.1.2;No;No;Kris Eberwein (2017). baseballDBR: Sabermetrics and Advanced Baseball Statistics. R package version 0.1.2. https://CRAN.R-project.org/package=baseballDBR;Sports performance analysis;United States of America;Male;2017;2017
+8/3/2017;NHLData;Scores for Every Season Since the Founding of the NHL in 1917;Each dataset contains scores for every game during a specific season of the NHL.;Yes;No;Yes;Yes;Hockey;Male;Professional;No;Scraping;No;8/3/2017;1.0.0;8/3/2017;1.0.0;No;No;D. Lukke Sweet (2017). NHLData: Scores for Every Season Since the Founding of the NHL in 1917. R package version 1.0.0. https://CRAN.R-project.org/package=NHLData;Sports performance analysis;NA;Male;2017;2017
+20/2/2017;colorr;Color Palettes for EPL, MLB, NBA, NHL, and NFL Teams;Color palettes for EPL, MLB, NBA, NHL, and NFL teams.;Doubt;Yes;Yes;No;Football/Baseball/Basketball/Hockey/American Football;Male;Professional;No;Scraping;No;20/2/2017;1.0.0;20/2/2017;1.0.0;No;No;Charles Crabtree (2017). colorr: Color Palettes for EPL, MLB, NBA, NHL, and NFL Teams. R package version 1.0.0. https://CRAN.R-project.org/package=colorr;Sports technology;United States of America;Male;2017;2017
+20/2/2017;pawacc;Physical Activity with Accelerometers;This is a collection of functions to process, format and store accelerometer data.;Yes;Yes;Yes;Yes;Physical activity;Both;NS;Yes;Processing/descriptive;No;13/11/2013;1.1;20/2/2017;1.2.2;No;No;Geraci M (2017). pawacc: Physical activity with accelerometers. R package version 1.2.2. Available at https://CRAN.R-project.org/package=pawacc.;Sports technology;United States of America;Male;2013;2017
+16/12/2016;acc;Exploring Accelerometer Data;Processes accelerometer data from uni-axial and tri-axial devices, and generates data summaries. ;No;Yes;Yes;Yes;Physical activity;Both;NS;Yes;Processing/descriptive;No;14/5/2015;1.0.2;16/12/2016;1.3.3;No;No;Jaejoon Song and Matthew G. Cox (2016). acc: Exploring Accelerometer Data. R package version 1.3.3. https://CRAN.R-project.org/package=acc;Sports technology;United States of America;Male;2015;2016
+30/10/2016;RDota2;An R Steam API Client for Valve's Dota2;An R API Client for Valve's Dota2. RDota2 can be easily used to connect to the Steam API and retrieve data for Valve's popular video game Dota2.;No;No;Yes;No;Dota2;Male;Professional;No;Scraping;Yes;30/10/2016;0.1.6;30/10/2016;0.1.6;No;Yes;Theo Boutaris (2016). RDota2: An R Steam API Client for Valve's Dota2. R package version 0.1.6. https://CRAN.R-project.org/package=RDota2;eSports;United Kingdom;Male;2016;2016
+30/8/2016;PASenseWear;Summarize Daily Physical Activity from 'SenseWear' Accelerometer Data;Provide summary table of daily physical activity and per-person/grouped heat map for accelerometer data from SenseWear Armband.;Yes;Yes;Yes;Yes;Physical activity;Both;NS;Yes;Descriptive;No;30/8/2016;1;30/8/2016;1;No;No;Yukun Zhang, Milad Yavari, Bob Haennel and Haocheng Li (2016). PASenseWear: Summarize Daily Physical Activity from 'SenseWear' Accelerometer Data. R package version 1.0. https://CRAN.R-project.org/package=PASenseWear;Sports technology;Canada;Female;2016;2016
+12/8/2016;bundesligR;All Final Tables of the Bundesliga;All final tables of Germany's highest football (soccer!) league, the Bundesliga. Contains data from 1964 to 2016.;Yes;Yes;Yes;Yes;Football;Male;Professional;No;Scraping;No;12/8/2016;0.1.0;12/8/2016;0.1.0;No;No;Philipp Ottolinger (2016). bundesligR: All Final Tables of the Bundesliga. R package version 0.1.0. https://CRAN.R-project.org/package=bundesligR;Sports performance analysis;Deutschland;Male;2016;2016
+12/6/2016;engsoccerdata;English and European Soccer Results 1871-2016;Analyzing English & European soccer results data from 1871-2016.;Yes;Yes;Yes;Yes;Football;Male;Professional;No;Scraping;No;12/6/2016;0.1.5;12/6/2016;0.1.5;No;No;James Curley (2016). engsoccerdata: English and European Soccer Results 1871-2016. R package version 0.1.5. https://CRAN.R-project.org/package=engsoccerdata;Sports performance analysis;United States of America;Male;2016;2016
+29/2/2016;tmpm;Trauma Mortality Prediction Model;Trauma Mortality prediction for ICD-9, ICD-10, and AIS lexicons in long or wide format based on Dr. Alan Cook's tmpm mortality model.;No;Doubt;Yes;Yes;Injury sports medicine;Both;NS;Yes;Prediction/modeling;No;29/2/2016;1.0.3;29/2/2016;1.0.3;No;No;Cody Moore (2016). tmpm: Trauma Mortality Prediction Model. R package version 1.0.3. https://CRAN.R-project.org/package=tmpm;Athlete health;NA;Male;2016;2016
+18/1/2016;cycleRtools;Tools for Cycling Data Analysis;A suite of functions for analysing cycling data.;Yes;Yes;Yes;Yes;Cycling;Both;Professional;Yes;Processing/Compute;Yes;22/9/2015;1.0.0;18/1/2016;1.1.1;No;No;Jordan Mackie (2016). cycleRtools: Tools for Cycling Data Analysis. R package version 1.1.1. https://CRAN.R-project.org/package=cycleRtools;Sports performance analysis;United Kingdom;Male;2015;2016
+9/12/2015;pitchRx;Tools for Harnessing 'MLBAM' 'Gameday' Data and Visualizing 'pitchfx';With 'pitchRx', one can easily obtain Major League Baseball Advanced Media's 'Gameday' data (as well as store it in a remote database).;Yes;Yes;Yes;Yes;Baseball;Male;Professional;No;Scraping/visualization;No;18/2/2013;0.1;9/12/2015;1.8.2;Yes;No;Carson Sievert (2014). Taming PITCHf/x Data with {pitchRx} and {XML2R} The R Journal, 6(1). URL http://journal.r-project.org/archive/2014-1/sievert.pdf.;Sports performance analysis;United States of America;Male;2013;2015
+5/11/2015;rchess;Chess Move, Generation/Validation, Piece Placement/ Movement, and Check/Checkmate/Stalemate Detection;R package for chess validations, pieces movements and check detection. ;Doubt;No;Yes;Yes;Chess;Both;Professional;No;Scraping/processing;No;5/11/2015;0.1;5/11/2015;0.1;No;No;Joshua Kunst (2015). rchess: Chess Move, Generation/Validation, Piece Placement/ Movement, and Check/Checkmate/Stalemate Detection. R package version 0.1. https://CRAN.R-project.org/package=rchess;Sports performance analysis;Chile;Male;2015;2015
+23/10/2013;fbRanks;Association Football (Soccer) Ranking via Poisson Regression;It uses time dependent Poisson regression and a record of goals scored in matches to rank teams via estimated attack and defense strengths. ;Yes;Yes;Yes;Yes;Football;Male;Amateur;Yes;Prediction/simulation;Yes;29/3/2013;1;23/10/2013;2;No;No;Eli Holmes (2013). fbRanks: Association Football (Soccer) Ranking via Poisson Regression. R package version 2.0. https://CRAN.R-project.org/package=fbRanks;Sports performance analysis;United States of America;Female;2013;2013
+7/4/2013;SportsAnalytics;Infrastructure for Sports Analytics;To provide infrastructure for sports analysis. ;Yes;Yes;Yes;Yes;Football/Basketball;Male;Professional;No;Scraping/preprocessing;No;12/10/2011;0.1;7/4/2013;0.2;No;No;Manuel J. A. Eugster. SportsAnalytics: Infrastructure for Sports Analytics. R package version 0.1 http://soccer.r-forge.r-project.org/;Sports performance analysis;Austria;Male;2011;2013
+28/2/2013;heatex;Heat exchange calculations during physical activity;It calculates heat storage in the body and the components of heat exchange between the body and the environment during physical activity.;Doubt;No;Yes;Yes;Walking/Running/Cycling;Both;NS;No;Compute;No;28/2/2013;1;28/2/2013;1;No;No;Kerry Atkins (2013). heatex: Heat exchange calculations during physical activity.. R package version 1.0. https://CRAN.R-project.org/package=heatex;Movement integration;Australia;Male;2013;2013
+20/1/2011;darts;Statistical Tools to Analyze Your Darts Game;Are you aiming at the right spot in darts? Maybe not! Use this package to find your optimal aiming location.;No;No;Yes;No;Darts;Both;Amateur;Yes;Visualization/processing;No;20/1/2011;1;20/1/2011;1;No;No;Ryan Tibshirani (2011). darts: Statistical Tools to Analyze Your Darts Game. R package version 1.0. https://CRAN.R-project.org/package=darts;Sports performance analysis;United States of America;Male;2011;2011
