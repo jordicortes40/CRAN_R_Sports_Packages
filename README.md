@@ -6,6 +6,8 @@ List and description of R Sports Packages in CRAN repository. See *Data* folder.
 
 |     Variable              | Description                                                                                                                       |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| Package                   | Name of the package
+| Description               | Brief explanation of the package
 | Tutorial                  | (Yes/No). If the   package contains a vignette/tutorial                                                                           |
 | Creation   date           | Date of the   first version                                                                                                       |
 | Initial   version         | Number of the   initial version                                                                                                   |
