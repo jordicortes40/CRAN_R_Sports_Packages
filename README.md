@@ -1,8 +1,8 @@
 # CRAN R Sports Packages
 
-You can find an interactive version of the data in this [*shiny* app](https://shiny-eio.upc.edu/pubs/RShiny_Sports/).
+You can find an interactive version of the data in this [*shiny* app](https://shiny-eio.upc.edu/pubs/sport-R-packages/).
 
-You can find the related paper [here](https://journals.sagepub.com/doi/abs/10.1177/17479541221136238)
+You can find the related paper [here](https://journals.sagepub.com/doi/abs/10.1177/17479541221136238).
 
 ## Data
 
