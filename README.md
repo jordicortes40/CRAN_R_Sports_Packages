@@ -1,5 +1,9 @@
 # CRAN R Sports Packages
 
+You can find an interactive version of the data in this [*shiny* app](https://shiny-eio.upc.edu/pubs/RShiny_Sports/).
+
+You can find the related paper [here](https://journals.sagepub.com/doi/abs/10.1177/17479541221136238)
+
 ## Data
 
 List and description of R Sports Packages in CRAN repository. See *Data* folder. Information available are:
