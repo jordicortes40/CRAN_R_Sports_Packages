@@ -1,6 +1,6 @@
 # CRAN R Sports Packages
 
-Martí Casals<sup>1</sup>, José Fernández<sup>2</sup>, Víctor Martínez<sup>3</sup>, Michael López<sup>4</sup>, Klaus Langohr<sup>3</sup>, Jordi Cortés<sup>3</sup>
+Martí Casals[![alt text][image]][hyperlink]<sup>1</sup>, José Fernández<sup>2</sup>, Víctor Martínez<sup>3</sup>, Michael López<sup>4</sup>, Klaus Langohr<sup>3</sup>, Jordi Cortés<sup>3</sup>
 
 <sup>1</sup> <span style="font-size:4em;">National Institute of Physical Education of Catalonia (INEFC), University of Barcelona (UB), Barcelona, Spain</span>
 
