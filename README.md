@@ -1,16 +1,16 @@
 # CRAN R Sports Packages
 
-Martí Casals<sup>^1</sup>, José Fernández<sup>^2</sup>, Víctor Martínez<sup>^3</sup>, Michael López<sup>^4</sup>, Kalus Langohr<sup>^3</sup>, Jordi Cortés<sup>^3</sup>
+Martí Casals<sup>1</sup>, José Fernández<sup>2</sup>, Víctor Martínez<sup>3</sup>, Michael López<sup>4</sup>, Kalus Langohr<sup>3</sup>, Jordi Cortés<sup>3</sup>
 
 \footnotesize
 
-$^1$ <span style="font-size:0.5em;">National Institute of Physical Education of Catalonia (INEFC), University of Barcelona (UB), Barcelona, Spain</span>
+<sup>1</sup> <span style="font-size:0.5em;">National Institute of Physical Education of Catalonia (INEFC), University of Barcelona (UB), Barcelona, Spain</span>
 
-$^2$ Faculty of Health Sciences, School of Behavioral and Health Sciences, Australian Catholic University, Fitzroy, Victoria, Australia
+<sup>2</sup> Faculty of Health Sciences, School of Behavioral and Health Sciences, Australian Catholic University, Fitzroy, Victoria, Australia
 
-$^3$ Statistics and Operations Research Department, Universitat Politècnica de Catalunya, Barcelona, Spain
+<sup>3</sup> Statistics and Operations Research Department, Universitat Politècnica de Catalunya, Barcelona, Spain
 
-$^4$ National Football League, New York, NY, USA
+<sup>4</sup> National Football League, New York, NY, USA
 
 \normalsize
 
