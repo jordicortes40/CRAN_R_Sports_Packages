@@ -2,8 +2,6 @@
 
 Martí Casals<sup>1</sup>, José Fernández<sup>2</sup>, Víctor Martínez<sup>3</sup>, Michael López<sup>4</sup>, Kalus Langohr<sup>3</sup>, Jordi Cortés<sup>3</sup>
 
-$\footnotesize$
-
 <sup>1</sup> <span style="font-size:4em;">National Institute of Physical Education of Catalonia (INEFC), University of Barcelona (UB), Barcelona, Spain</span>
 
 <sup>2</sup> Faculty of Health Sciences, School of Behavioral and Health Sciences, Australian Catholic University, Fitzroy, Victoria, Australia
@@ -12,7 +10,7 @@ $\footnotesize$
 
 <sup>4</sup> National Football League, New York, NY, USA
 
-\normalsize
+</br>
 
 You can find an interactive version of the data in this [*shiny* app](https://shiny-eio.upc.edu/pubs/sport-R-packages/).
 
