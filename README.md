@@ -1,6 +1,6 @@
 # CRAN R Sports Packages
 
-Martí Casals[![orcid](orcid_icon.png){width: 5px;}](https://orcid.org/0000-0002-1775-8331)<sup>1</sup>, José Fernández<a href="https://orcid.org/0000-0002-1775-8331"><img src="orcid_icon.png" alt="orcid" width="5"/></a><sup>2</sup>, Víctor Martínez<sup>3</sup>, Michael López<sup>4</sup>, Klaus Langohr<sup>3</sup>, Jordi Cortés<sup>3</sup>
+Martí Casals[![orcid](orcid_icon.png){width: 5px;}](https://orcid.org/0000-0002-1775-8331)<sup>1</sup>, José Fernández<a href="https://orcid.org/0000-0002-1775-8331"><img src="orcid_icon.png" alt="orcid" width="15"/></a><sup>2</sup>, Víctor Martínez<sup>3</sup>, Michael López<sup>4</sup>, Klaus Langohr<sup>3</sup>, Jordi Cortés<sup>3</sup>
 
 <sup>1</sup> <span style="font-size:4em;">National Institute of Physical Education of Catalonia (INEFC), University of Barcelona (UB), Barcelona, Spain</span>
 
