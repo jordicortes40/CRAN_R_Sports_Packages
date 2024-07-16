@@ -1,7 +1,7 @@
 # CRAN R Sports Packages
 
-Martí Casals <a href="https://orcid.org/0000-0002-1775-8331"><img src="orcid_icon.png" alt="orcid" width="15"/></a> <sup>1</sup>, José Fernández <a href="https://orcid.org/0000-0002-1775-8331"><img src="orcid_icon.png" alt="orcid" width="15"/></a> <sup>2</sup>, Víctor Martínez <a href="https://orcid.org/0000-0002-1775-8331"><img src="orcid_icon.png" alt="orcid" width="15"/></a> <sup>3</sup>, Michael López <a href="https://orcid.org/0000-0002-1775-8331"><img src="orcid_icon.png" alt="orcid" width="15"/></a> <sup>4</sup>, Klaus Langohr <a href="https://orcid.org/0000-0002-1775-8331"><img src="orcid_icon.png" alt="orcid" width="15"/></a>
- <sup>3</sup>, Jordi Cortés <a href="https://orcid.org/0000-0002-1775-8331"><img src="orcid_icon.png" alt="orcid" width="15"/></a> <sup>3</sup>
+Martí Casals <a href="https://orcid.org/0000-0002-1775-8331"><img src="orcid_icon.png" alt="orcid" width="15"/></a> <sup>1</sup>, José Fernández <a href="https://orcid.org/0000-0002-1775-8331"><img src="orcid_icon.png" alt="orcid" width="15"/></a> <sup>2</sup>, Víctor Martínez <a href="https://orcid.org/0000-0002-1775-8331"><img src="orcid_icon.png" alt="orcid" width="15"/></a> <sup>3</sup>, Michael López <a href="https://orcid.org/0000-0001-7075-9192"><img src="orcid_icon.png" alt="orcid" width="15"/></a> <sup>4</sup>, Klaus Langohr <a href="https://orcid.org/0000-0002-1775-8331"><img src="orcid_icon.png" alt="orcid" width="15"/></a>
+ <sup>3</sup>, Jordi Cortés <a href="https://orcid.org/0000-0002-3764-0795"><img src="orcid_icon.png" alt="orcid" width="15"/></a> <sup>3</sup>
 
 <sup>1</sup> <span style="font-size:4em;">National Institute of Physical Education of Catalonia (INEFC), University of Barcelona (UB), Barcelona, Spain</span>
 
