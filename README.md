@@ -4,7 +4,7 @@ Martí Casals<sup>1</sup>, José Fernández<sup>2</sup>, Víctor Martínez<sup>3
 
 \footnotesize
 
-<sup>1</sup> <span style="font-size:0.5em;">National Institute of Physical Education of Catalonia (INEFC), University of Barcelona (UB), Barcelona, Spain</span>
+<sup>1</sup> <span style="font-size:4em;">National Institute of Physical Education of Catalonia (INEFC), University of Barcelona (UB), Barcelona, Spain</span>
 
 <sup>2</sup> Faculty of Health Sciences, School of Behavioral and Health Sciences, Australian Catholic University, Fitzroy, Victoria, Australia
 
