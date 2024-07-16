@@ -1,6 +1,6 @@
 # CRAN R Sports Packages
 
-Martí Casals $^1$, José Fernández $^2$, Víctor Martínez $^3$, Michael López $^4$, Kalus Langohr $^3$, Jordi Cortés $^3$ 
+Martí Casals<sup>^1</sup>, José Fernández<sup>^2</sup>, Víctor Martínez<sup>^3</sup>, Michael López<sup>^4</sup>, Kalus Langohr<sup>^3</sup>, Jordi Cortés<sup>^3</sup>
 
 \footnotesize
 
