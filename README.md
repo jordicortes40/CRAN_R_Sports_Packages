@@ -1,5 +1,19 @@
 # CRAN R Sports Packages
 
+Martí Casals$^1$, José Fernández$^2$, Víctor Martínez$^3$, Michael López$^4$, Kalus Langohr$^3$, Jordi Cortés$^3$ 
+
+\footnotesize
+
+$^1$ National Institute of Physical Education of Catalonia (INEFC), University of Barcelona (UB), Barcelona, Spain
+
+$^2$ Faculty of Health Sciences, School of Behavioral and Health Sciences, Australian Catholic University, Fitzroy, Victoria, Australia
+
+$^3$ Statistics and Operations Research Department, Universitat Politècnica de Catalunya, Barcelona, Spain
+
+$^4$ National Football League, New York, NY, USA
+
+\normalsize
+
 You can find an interactive version of the data in this [*shiny* app](https://shiny-eio.upc.edu/pubs/sport-R-packages/).
 
 You can find the related paper [here](https://journals.sagepub.com/doi/abs/10.1177/17479541221136238).
