@@ -4,7 +4,7 @@ Martí Casals $^1$, José Fernández $^2$, Víctor Martínez $^3$, Michael Lópe
 
 \footnotesize
 
-$^1$ National Institute of Physical Education of Catalonia (INEFC), University of Barcelona (UB), Barcelona, Spain
+$^1$ <span style="font-size:0.5em;">National Institute of Physical Education of Catalonia (INEFC), University of Barcelona (UB), Barcelona, Spain</span>
 
 $^2$ Faculty of Health Sciences, School of Behavioral and Health Sciences, Australian Catholic University, Fitzroy, Victoria, Australia
 
