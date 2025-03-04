@@ -15,7 +15,7 @@ Martí Casals <a href="https://orcid.org/0000-0002-1775-8331"><img src="orcid_ic
 
 You can find an interactive version of the data in this [*shiny* app](https://shiny-eio.upc.edu/pubs/sport-R-packages/).
 
-You can find the related paper [here](https://journals.sagepub.com/doi/abs/10.1177/17479541221136238).
+You can find the related paper [here](https://journals.sagepub.com/doi/abs/10.1177/17479541221136238).   
 
 ## Data
 
